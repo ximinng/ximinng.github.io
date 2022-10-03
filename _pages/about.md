@@ -28,7 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📄 Writing 
 
-Blog: [Robust Deep Leanring based on Meta-Learning](https://www.craft.do/s/N0N70a75WHn9iZ)
+Blog: "[Robust Deep Leanring based on Meta-Learning](https://www.craft.do/s/N0N70a75WHn9iZ)"
+
 *January 1, 2022 | 10min | Ximing Xing*
 
 # 📝 Publications 
