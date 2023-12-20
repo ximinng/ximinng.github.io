@@ -52,13 +52,11 @@ January 1, 2022 · 10min · Ximing Xing
 <div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/inv-by-inv-teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training
-](https://arxiv.org/abs/2308.07665)
+[Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training](https://arxiv.org/abs/2308.07665)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Zhihao Hu, Chongxuan Li, Dong Xu, Qian Yu
 
 [**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/ximinng/inversion-by-inversion)
-
 </div>
 </div>
 
@@ -71,7 +69,6 @@ January 1, 2022 · 10min · Ximing Xing
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
 
 HaiYang Zhang, **XiMing Xing**, Liang Liu
-
 </div>
 </div>
 
