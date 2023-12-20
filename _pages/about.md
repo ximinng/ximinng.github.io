@@ -19,51 +19,66 @@ redirect_from:
 
 I am a Ph.D. student in Software Engineering at BeiHang University, advised by [Prof. Qian Yu](https://yuqian1023.github.io/).
 
-My research focuses on generative models in the context of design to enhance creativity.
+My research focuses on generative models and robust machine learning.
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is
   the go-to library for state-of-the-art differentiable rendering methods for image vectorization. 
 
-[//]: # (# 📄 Writing )
-
-[//]: # ()
-[//]: # (Blog: "[Robust Deep Leanring based on Meta-Learning]&#40;https://www.craft.do/s/N0N70a75WHn9iZ&#41;")
-
-[//]: # ()
-[//]: # (January 1, 2022 · 10min · Ximing Xing)
+<!-- 
+# 📄 Writing
+Blog: "[Robust Deep Leanring based on Meta-Learning]&#40;https://www.craft.do/s/N0N70a75WHn9iZ&#41;"
+January 1, 2022 · 10min · Ximing Xing
+-->
 
 # 📝 Publications
+
+<!-- paper latest -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_teaser.png' alt="DiffSketcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Qian Yu, Dong Xu
 
-[**Project**](https://ximinng.github.io/DiffSketcher-project/)
-[**Code**](https://github.com/ximinng/DiffSketcher)
+[**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/DiffSketcher)
 </div>
 </div>
+
+<!-- paper 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/inv-by-inv-teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DualGraph: A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.html)
+[Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training
+](https://arxiv.org/abs/2308.07665)
+
+**Ximing Xing**, Chuang Wang, Haitao Zhou, Zhihao Hu, Chongxuan Li, Dong Xu, Qian Yu
+
+[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/ximinng/inversion-by-inversion)
+
+</div>
+</div>
+
+<!-- paper 2 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/DualGraph_teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
 
 HaiYang Zhang, **XiMing Xing**, Liang Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+-->
 
 [//]: # (# 📖 Educations)
 [//]: # (- *2022.09 - &#40;now&#41;*, Phd student, Beihang University, Beijing. )

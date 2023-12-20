@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "XiMing Xing"
-description              : "Ph.D. student in Software Engineering, Beihang University"
+description              : "Ph.D. student in Software Engineering"
 repository               : "ximinng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "XiMing Xing"
   avatar           : "images/profile.png" # default size: 512 x 512
-  bio              : "Beihang University"
+  bio              : "BeiHang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
