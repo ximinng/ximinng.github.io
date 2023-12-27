@@ -23,7 +23,7 @@ My research focuses on generative models and robust machine learning.
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is
-  the go-to library for state-of-the-art differentiable rendering methods for image vectorization. 
+  the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
 
 <!-- 
 # 📄 Writing
@@ -42,6 +42,8 @@ January 1, 2022 · 10min · Ximing Xing
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Qian Yu, Dong Xu
 
+Advances in Neural Information Processing Systems (NeurIPS), 2023
+
 [**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/DiffSketcher)
 </div>
 </div>
@@ -56,6 +58,8 @@ January 1, 2022 · 10min · Ximing Xing
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Zhihao Hu, Chongxuan Li, Dong Xu, Qian Yu
 
+arXiv, 2023
+
 [**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/ximinng/inversion-by-inversion)
 </div>
 </div>
@@ -69,6 +73,8 @@ January 1, 2022 · 10min · Ximing Xing
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
 
 HaiYang Zhang, **XiMing Xing**, Liang Liu
+
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 </div>
 </div>
 
