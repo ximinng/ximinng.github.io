@@ -91,5 +91,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+# 📑 Professional Activities
+- Conference Reviewer
+  
+  CVPR 2024
+
 # 💻 Internships
 - *2021.06 - 2021.11*, [Ant Group](), research intern, RL ,China.
