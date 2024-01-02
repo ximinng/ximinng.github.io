@@ -36,7 +36,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/SVGDreamer_teaser.png' alt="DiffSketcher" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/SVGDreamer_teaser.png' alt="DiffSketcher" width="100%" height="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
