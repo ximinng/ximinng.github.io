@@ -33,10 +33,25 @@ January 1, 2022 · 10min · Ximing Xing
 
 # 📝 Publications
 
-<!-- paper latest -->
+<!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_teaser.png' alt="DiffSketcher" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/diffsketcher_teaser.png' alt="DiffSketcher" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
+
+**Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu, Qian Yu
+
+arXiv, 2023
+
+[**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/PyTorch-SVGRender)
+</div>
+</div>
+
+<!-- paper 3 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/DiffSketcher_teaser.png' alt="DiffSketcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
@@ -48,10 +63,10 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 </div>
 </div>
 
-<!-- paper 1 -->
+<!-- paper 2 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/inv-by-inv-teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Inv-by-Inv-teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training](https://arxiv.org/abs/2308.07665)
@@ -64,7 +79,7 @@ arXiv, 2023
 </div>
 </div>
 
-<!-- paper 2 -->
+<!-- paper 1 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph_teaser.png' alt="DualGraph" width="80%" height="80%"></div></div>
