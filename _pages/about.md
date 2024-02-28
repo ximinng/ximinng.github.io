@@ -22,6 +22,7 @@ I am a Ph.D. student in Software Engineering at BeiHang University, advised by [
 My research focuses on generative models and robust machine learning.
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/DiffSketcher-project/) got accepted by CVPR'24!
 - *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is
   the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
 
@@ -36,13 +37,13 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/SVGDreamer_teaser.png' alt="DiffSketcher" width="100%" height="70%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SVGDreamer_teaser.png' alt="DiffSketcher" width="100%" height="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu, Qian Yu
 
-arXiv, 2023
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
 [**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/PyTorch-SVGRender)
 </div>
