@@ -137,4 +137,4 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 # 💻 Internships
 - *2021.06 - 2021.11*, [Ant Group](), research intern. HangZhou, China.
 
-  Task-based dialogue system based on reinforcement learning,
+  Task-based Dialogue System based on Reinforcement Learning
