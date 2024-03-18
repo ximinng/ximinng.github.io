@@ -22,7 +22,7 @@ I am a Ph.D. student in Software Engineering at BeiHang University, advised by [
 My research focuses on generative models and robust machine learning.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/DiffSketcher-project/) got accepted by CVPR'24!
+- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/DiffSketcher-project/) got accepted by CVPR'2024!
 - *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is
   the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
 
@@ -83,7 +83,7 @@ arXiv, 2023
 <!-- paper 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph_teaser.png' alt="DualGraph" width="80%" height="80%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph_teaser.png' alt="DualGraph"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
@@ -106,6 +106,28 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 📒 Projects
+
+<!-- project 1 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">open source</div><img src='images/PyTorch-SVGRender-cover.png' alt="PyTorch-SVGRender"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pytorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/)
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10-or?logo=python" alt="pyhton"></a>
+<a href="http://mozilla.org/MPL/2.0/"><img src="https://img.shields.io/badge/license-MPL2.0-orange" alt="license"></a>
+<a href="https://ximinng.github.io/PyTorch-SVGRender-project/"><img src="https://img.shields.io/badge/website-Gitpage-yellow" alt="website"></a>
+<a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/docs-readthedocs-purple" alt="docs"></a>
+
+👥 Contributors: **XiMing Xing**, Juncheng Hu
+
+🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
+
+</div>
+</div>
 
 # 📑 Professional Activities
 - Conference Reviewer
