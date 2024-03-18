@@ -52,7 +52,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 <!-- paper 3 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/Diffsketcher-cover.png' alt="DiffSketcher" width="90%" height="auto"></div></div>
+<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/Diffsketcher-cover.png' alt="DiffSketcher" width="100%" height="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
