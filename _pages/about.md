@@ -37,7 +37,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SVGDreamer-cover.png' alt="DiffSketcher" width="auto" height="90%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SVGDreamer-cover.png' alt="SVGDreamer" height="90%" width="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
@@ -114,8 +114,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="project-badge">open source</div><img src='images/PyTorch-SVGRender-cover.png' alt="PyTorch-SVGRender"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Pytorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/)
+[Pytorch-SVGRender: A Differentiable Rendering Library for SVG Creation](https://ximinng.github.io/PyTorch-SVGRender-project/)
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10-or?logo=python" alt="pyhton"></a>
 <a href="http://mozilla.org/MPL/2.0/"><img src="https://img.shields.io/badge/license-MPL2.0-orange" alt="license"></a>
@@ -125,7 +124,6 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 👥 Contributors: **Ximing Xing**, Juncheng Hu
 
 🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
-
 </div>
 </div>
 
