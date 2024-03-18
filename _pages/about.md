@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "XiMing Xing, ximingxing, 行习铭, ximing xing"
+title: "Ximing Xing, XiMing Xing, ximingxing, 行习铭, ximing xing"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -37,7 +37,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SVGDreamer_teaser.png' alt="DiffSketcher" width="100%" height="70%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SVGDreamer-cover.png' alt="DiffSketcher" width="auto" height="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
@@ -52,7 +52,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 <!-- paper 3 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/DiffSketcher_teaser.png' alt="DiffSketcher" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/Diffsketcher-cover.png' alt="DiffSketcher" width="90%" height="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
@@ -83,7 +83,7 @@ arXiv, 2023
 <!-- paper 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph_teaser.png' alt="DualGraph"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' alt="DualGraph" width="auto%" height="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
@@ -112,7 +112,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <!-- project 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">open source</div><img src='images/PyTorch-SVGRender-cover.png' alt="PyTorch-SVGRender"></div></div>
+<div class='paper-box-image'><div><div class="project-badge">open source</div><img src='images/PyTorch-SVGRender-cover.png' alt="PyTorch-SVGRender"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pytorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/)
