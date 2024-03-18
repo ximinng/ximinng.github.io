@@ -88,7 +88,7 @@ arXiv, 2023
 
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
 
-HaiYang Zhang, **XiMing Xing**, Liang Liu
+HaiYang Zhang, **Ximing Xing**, Liang Liu
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 </div>
@@ -122,7 +122,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <a href="https://ximinng.github.io/PyTorch-SVGRender-project/"><img src="https://img.shields.io/badge/website-Gitpage-yellow" alt="website"></a>
 <a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/docs-readthedocs-purple" alt="docs"></a>
 
-👥 Contributors: **XiMing Xing**, Juncheng Hu
+👥 Contributors: **Ximing Xing**, Juncheng Hu
 
 🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
 
