@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "ximingxing@buaa.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : ximinng
+  huggingface      : xingxm
   google_plus      :
   keybase          :
   instagram        :
