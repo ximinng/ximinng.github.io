@@ -130,7 +130,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 # 📑 Professional Activities
 - Conference Reviewer
   
-  CVPR 2024
+  CVPR 2024, ECCV 2024
+
+- Journal Reviewer
+  
+  IJCV
 
 # 💻 Internships
 - *2021.06 - 2021.11*, [Ant Group](), research intern. HangZhou, China.
