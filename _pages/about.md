@@ -130,7 +130,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 # 📑 Professional Activities
 - Conference Reviewer
   
-  CVPR 2024, ECCV 2024, NIPS 2024
+  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024
 
 - Journal Reviewer
   
