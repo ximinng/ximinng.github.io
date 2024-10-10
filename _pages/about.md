@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student in Software Engineering at Beihang University, advised by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis and robust machine learning.
+
 <!-- https://github.com/idealclover/GitHub-Star-Counter -->
 <a href="https://github.com/ximinng/">
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng" alt="GitHub Stars">
-</a>
-<a href="https://huggingface.co/SVGRender">
-  <img src="https://img.shields.io/badge/huggingface-space-ffcc00?logo=github&style=for-the-badge" alt="GitHub Stars">
+</a><a href="https://huggingface.co/xingxm">
+  <img src="https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge" alt="GitHub Stars">
 </a>
 
 # 🔥 News
