@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ximing Xing, XiMing Xing, ximingxing, 行习铭, ximing xing"
+title: "Ximing Xing, XiMing Xing, ximingxing, 行习铭, ximing xing, ximing, ximinng"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Software Engineering at BeiHang University, advised by [Prof. Qian Yu](https://yuqian1023.github.io/).
-
-My research focuses on generative models and robust machine learning.
+I am a Ph.D. student in Software Engineering at Beihang University, advised by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis and robust machine learning.
+<!-- https://github.com/idealclover/GitHub-Star-Counter -->
+<a href="https://github.com/ximinng/">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng" alt="GitHub Stars">
+</a>
+<a href="https://huggingface.co/SVGRender">
+  <img src="https://img.shields.io/badge/huggingface-space-ffcc00?logo=github&style=for-the-badge" alt="GitHub Stars">
+</a>
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/DiffSketcher-project/) got accepted by CVPR'2024!
@@ -116,10 +121,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <div class='paper-box-text' markdown="1">
 [Pytorch-SVGRender: A Differentiable Rendering Library for SVG Creation](https://ximinng.github.io/PyTorch-SVGRender-project/)
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10-or?logo=python" alt="pyhton"></a>
-<a href="http://mozilla.org/MPL/2.0/"><img src="https://img.shields.io/badge/license-MPL2.0-orange" alt="license"></a>
-<a href="https://ximinng.github.io/PyTorch-SVGRender-project/"><img src="https://img.shields.io/badge/website-Gitpage-yellow" alt="website"></a>
-<a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/docs-readthedocs-purple" alt="docs"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10-or?logo=python" alt="pyhton"></a>
+<a href="http://mozilla.org/MPL/2.0/"><img src="https://img.shields.io/badge/License-MPL2.0-orange" alt="license"></a>
+<a href="https://ximinng.github.io/PyTorch-SVGRender-project/"><img src="https://img.shields.io/badge/Website-Gitpage-yellow" alt="website"></a>
+<a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/DOCS-Readthedocs-purple?logo=readthedocs" alt="docs"></a>
+<a href="https://huggingface.co/SVGRender"><img src="https://img.shields.io/badge/SPACE-HuggingFace-ffcc00?logo=huggingface" alt="space"></a>
 
 👥 Contributors: **Ximing Xing**, Juncheng Hu
 
@@ -130,13 +136,13 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 # 📑 Professional Activities
 - Conference Reviewer
   
-  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024
+  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025
 
 - Journal Reviewer
   
-  IJCV
+  IJCV, IEEE T-VCG
 
 # 💻 Internships
-- *2021.06 - 2021.11*, [Ant Group](), research intern. HangZhou, China.
+- *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), research intern. HangZhou, China.
 
-  Task-based Dialogue System based on Reinforcement Learning
+  Task-based Dialogue System based on Deep Reinforcement Learning
