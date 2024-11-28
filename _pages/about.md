@@ -39,10 +39,25 @@ January 1, 2022 · 10min · Ximing Xing
 
 # 📝 Publications
 
+<!-- paper 5 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2-cover.png' alt="SVGDreamer++" height="90%" width="auto"></div></div>
+<div class='paper-box-text' markdown="1">
+[SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832)
+
+**Ximing Xing**, Qian Yu, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu
+
+arXiv, 2024
+
+[**Paper**](https://arxiv.org/abs/2411.17832) | [**Code**]([nder](https://github.com/ximinng/SVGDreamerV2))
+</div>
+</div>
+
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SVGDreamer-cover.png' alt="SVGDreamer" height="90%" width="auto"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' alt="SVGDreamer" height="90%" width="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
@@ -57,7 +72,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 <!-- paper 3 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/Diffsketcher-cover.png' alt="DiffSketcher" width="100%" height="auto"></div></div>
+<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_cover.png' alt="DiffSketcher" width="100%" height="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
@@ -72,7 +87,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 <!-- paper 2 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Inv-by-Inv-teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training](https://arxiv.org/abs/2308.07665)
@@ -145,4 +160,4 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 # 💻 Internships
 - *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), research intern. HangZhou, China.
 
-  Task-based Dialogue System based on Deep Reinforcement Learning
+  Dialogue System, Task-based Dialogue System based on Deep Reinforcement Learning
