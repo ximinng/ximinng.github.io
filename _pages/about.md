@@ -42,7 +42,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 5 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2-cover.png' alt="SVGDreamer++" height="90%" width="auto"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2_cover.png' alt="SVGDreamer++" height="85%" width="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832)
 
@@ -57,7 +57,7 @@ arXiv, 2024
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' alt="SVGDreamer" height="90%" width="auto"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' alt="SVGDreamer" height="85%" width="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
