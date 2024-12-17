@@ -20,14 +20,17 @@ redirect_from:
 I am a Ph.D. student in Software Engineering at Beihang University, advised by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis and robust machine learning.
 
 <!-- https://github.com/idealclover/GitHub-Star-Counter -->
-<a href="https://github.com/ximinng/">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng" alt="GitHub Stars">
-</a><a href="https://huggingface.co/xingxm">
-  <img src="https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge" alt="GitHub Stars">
+<!-- <a href="https://github.com/ximinng/">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng">
 </a>
+<a href="https://huggingface.co/xingxm">
+  <img src="https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge" alt="GitHub Stars">
+</a> -->
+[![github](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng)](https://github.com/ximinng/)
+[![blog](https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge)](https://huggingface.co/xingxm)
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/DiffSketcher-project/) got accepted by CVPR'2024!
+- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/DiffSketcher-project/) accepted by CVPR'2024!
 - *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is
   the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
 
@@ -39,10 +42,25 @@ January 1, 2022 · 10min · Ximing Xing
 
 # 📝 Publications
 
-<!-- paper 5 -->
+<!-- paper 7 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2_cover.png' alt="SVGDreamer++" width="80%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgfusion_cover.png' alt="SVGFusion"></div></div>
+<div class='paper-box-text' markdown="1">
+[SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion](https://arxiv.org/abs/2412.10437)
+
+**Ximing Xing**, Juncheng Hu, Jing Zhang, Dong Xu, Qian Yu
+
+arXiv, 2024
+
+[**Project**](https://ximinng.github.io/SVGFusionProject/) | [**Code**](https://github.com/ximinng/SVGFusion)
+</div>
+</div>
+
+<!-- paper 6 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2_cover.png' alt="SVGDreamer++"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832)
 
@@ -50,7 +68,22 @@ January 1, 2022 · 10min · Ximing Xing
 
 arXiv, 2024
 
-[**Paper**](https://arxiv.org/abs/2411.17832) | [**Code**]([nder](https://github.com/ximinng/SVGDreamerV2))
+[**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2)
+</div>
+</div>
+
+<!-- paper 5 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/llm4svg_cover.png' alt="LLM4SVG"></div></div>
+<div class='paper-box-text' markdown="1">
+[Empowering LLMs to Understand and Generate Complex Vector Graphics](https://arxiv.org/abs/2412.11102)
+
+**Ximing Xing**, Juncheng Hu, Guotao Liang, Jing Zhang, Dong Xu, Qian Yu
+
+arXiv, 2024
+
+[**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG)
 </div>
 </div>
 
@@ -151,7 +184,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 # 📑 Professional Activities
 - Conference Reviewer
   
-  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025
+  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025, CVPR 2025
 
 - Journal Reviewer
   
