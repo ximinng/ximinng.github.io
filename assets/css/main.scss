@@ -83,7 +83,6 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
-            color: #3b5998;
         }
 
     }
@@ -121,4 +120,16 @@ h1:before, .anchor:before {
     color: white;
     background-color: #56e3b2;
     font-size: .8em;
+}
+
+/* 新增链接样式 */
+a {
+    color: #0066cc; /* 默认蓝色 */
+    text-decoration: none;
+    transition: color 0.3s ease; /* 颜色渐变效果 */
+
+    &:hover {
+        color: #003366; /* 鼠标悬停时的深蓝色 */
+        text-decoration: underline;
+    }
 }
