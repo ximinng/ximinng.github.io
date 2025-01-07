@@ -3,7 +3,7 @@ permalink: /
 title: "Ximing Xing, XiMing Xing, ximingxing, 行习铭, ximing xing, ximing, ximinng"
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Software Engineering at Beihang University, advised by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis and robust machine learning.
+I am a Ph.D. student in Software Engineering at Beihang University, advised
+by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis
+and robust machine learning.
 
 <!-- https://github.com/idealclover/GitHub-Star-Counter -->
 <!-- <a href="https://github.com/ximinng/">
@@ -30,8 +32,10 @@ I am a Ph.D. student in Software Engineering at Beihang University, advised by [
 [![blog](https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge)](https://huggingface.co/xingxm)
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/DiffSketcher-project/) accepted by CVPR'2024!
-- *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is
+
+- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) accepted by CVPR'2024!
+- *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender).
+  Pytorch-SVGRender is
   the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
 
 <!-- 
@@ -42,7 +46,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 # 📝 Publications
 
-<!-- paper 7 -->
+<!-- paper 8 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgfusion_cover.png' alt="SVGFusion"></div></div>
@@ -57,7 +61,7 @@ arXiv, 2024
 </div>
 </div>
 
-<!-- paper 6 -->
+<!-- paper 7 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2_cover.png' alt="SVGDreamer++"></div></div>
@@ -72,7 +76,7 @@ arXiv, 2024
 </div>
 </div>
 
-<!-- paper 5 -->
+<!-- paper 6 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/llm4svg_cover.png' alt="LLM4SVG"></div></div>
@@ -87,6 +91,21 @@ arXiv, 2024
 </div>
 </div>
 
+<!-- paper 5 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='vectorpainter-cover.png' alt="VectorPainter"></div></div>
+<div class='paper-box-text' markdown="1">
+[VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
+
+Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
+
+arXiv, 2024
+
+[//]: # ([**Project**]&#40;https://ximinng.github.io/SVGDreamerV2Project/&#41; | [**Code**]&#40;https://github.com/ximinng/SVGDreamerV2&#41;)
+</div>
+</div>
+
 <!-- paper 4 -->
 
 <div class='paper-box'>
@@ -98,7 +117,8 @@ arXiv, 2024
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
-[**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/PyTorch-SVGRender) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
+[**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code
+**](https://github.com/ximinng/PyTorch-SVGRender) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
 </div>
 
@@ -129,14 +149,15 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 arXiv, 2023
 
-[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/ximinng/inversion-by-inversion)
+[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code
+**](https://github.com/ximinng/inversion-by-inversion)
 </div>
 </div>
 
 <!-- paper 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' alt="DualGraph" width="60%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' alt="DualGraph" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
@@ -147,12 +168,12 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
--->
+# 🎖 Honors and Awards
+- *2024.12* National Scholarship for Doctoral Students.
+- *2021.12* National Scholarship
 
 [//]: # (# 📖 Educations)
+
 [//]: # (- *2022.09 - &#40;now&#41;*, Phd student, Beihang University, Beijing. )
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -177,20 +198,24 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 👥 Contributors: **Ximing Xing**, Juncheng Hu
 
-🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
+🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code
+**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs
+**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
 </div>
 </div>
 
 # 📑 Professional Activities
+
 - Conference Reviewer
-  
+
   CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025, CVPR 2025
 
 - Journal Reviewer
-  
+
   IJCV, IEEE T-VCG
 
 # 💻 Internships
+
 - *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), research intern. HangZhou, China.
 
   Dialogue System, Task-based Dialogue System based on Deep Reinforcement Learning
