@@ -60,7 +60,6 @@ January 1, 2022 · 10min · Ximing Xing
 <b><u>TL;DR:</u></b> SVGFusion is a novel Text-to-SVG model that generates high-quality vector graphics by learning continuous latent space representations.
 
 [**Project**](https://ximinng.github.io/SVGFusionProject/) | [**Code**](https://github.com/ximinng/SVGFusion)
-
 </div>
 </div>
 
@@ -110,7 +109,6 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 [![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2405.02962)
 
 <b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
-
 [//]: # ([**Project**]&#40;https://ximinng.github.io/SVGDreamerV2Project/&#41; | [**Code**]&#40;https://github.com/ximinng/SVGDreamerV2&#41;)
 </div>
 </div>
@@ -131,7 +129,6 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
 [**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
-
 </div>
 </div>
 
