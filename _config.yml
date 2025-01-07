@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "XiMing Xing"
-description              : "Ph.D. student in Software Engineering"
+description              : "Ph.D. student at BUAA(Beihang University). Interested in Deep Generation and Vector Art."
 repository               : "ximinng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=tFpaF7AAAAAJ"
   email            : "ximingxing@buaa.edu.cn"
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

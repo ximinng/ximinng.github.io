@@ -55,9 +55,12 @@ January 1, 2022 · 10min · Ximing Xing
 
 **Ximing Xing**, Juncheng Hu, Jing Zhang, Dong Xu, Qian Yu
 
+[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2412.10437)
+
 <b><u>TL;DR:</u></b> SVGFusion is a novel Text-to-SVG model that generates high-quality vector graphics by learning continuous latent space representations.
 
 [**Project**](https://ximinng.github.io/SVGFusionProject/) | [**Code**](https://github.com/ximinng/SVGFusion)
+
 </div>
 </div>
 
@@ -69,6 +72,8 @@ January 1, 2022 · 10min · Ximing Xing
 [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832)
 
 **Ximing Xing**, Qian Yu, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu
+
+[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2411.17832)
 
 <b><u>TL;DR:</u></b> Upgrade version of SVGDreamer: A new optimization-based Text-to-SVG method 
 
@@ -85,6 +90,8 @@ January 1, 2022 · 10min · Ximing Xing
 
 **Ximing Xing**, Juncheng Hu, Guotao Liang, Jing Zhang, Dong Xu, Qian Yu
 
+[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2412.11102)
+
 <b><u>TL;DR:</u></b> LLM4SVG enables LLMs to understand and generate vector graphics using SVG Semantic Tokens.
 
 [**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG)
@@ -99,6 +106,8 @@ January 1, 2022 · 10min · Ximing Xing
 [VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
 
 Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
+
+[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2405.02962)
 
 <b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
 
@@ -115,11 +124,14 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu, Qian Yu
 
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer-orange.svg)](https://ximinng.github.io/SVGDreamer-project/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Blog-SVGDreamer-green.svg)](https://huggingface.co/blog/xingxm/svgdreamer) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamer)
+
 <b><u>TL;DR:</u></b> SVGDreamer introduces semantic-driven vectorization (SIVE) and particle-based distillation (VPSD) to generate editable, high-quality SVGs with better shape control and diversity.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
-[**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/PyTorch-SVGRender) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
+[**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
+
 </div>
 </div>
 
@@ -131,6 +143,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Qian Yu, Dong Xu
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-DiffSketcher-orange.svg)](https://ximinng.github.io/DiffSketcher-project/) [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code+Stars)](https://github.com/ximinng/DiffSketcher)
 
 <b><u>TL;DR:</u></b> DiffSketcher pioneered the use of diffusion models for text-to-vector sketch generation.
 
@@ -152,8 +166,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 <b><u>TL;DR:</u></b> Free training for sketch control image synthesis via Stochastic Differential Equations (SDEs).
 
-[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code
-**](https://github.com/ximinng/inversion-by-inversion)
+[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/ximinng/inversion-by-inversion)
 </div>
 </div>
 
@@ -167,7 +180,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 HaiYang Zhang, **Ximing Xing**, Liang Liu
 
-<b><u>TL;DR:</u></b> DualGraph: The first method for label noise processing based on graph neural networks.
+<b><u>TL;DR:</u></b> DualGraph, the first method for label noise processing based on graph neural networks.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 </div>
