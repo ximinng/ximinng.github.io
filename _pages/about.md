@@ -109,7 +109,6 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 [![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2405.02962)
 
 <b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
-[//]: # ([**Project**]&#40;https://ximinng.github.io/SVGDreamerV2Project/&#41; | [**Code**]&#40;https://github.com/ximinng/SVGDreamerV2&#41;)
 </div>
 </div>
 
@@ -201,6 +200,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <div class='paper-box-text' markdown="1">
 [Pytorch-SVGRender: A Differentiable Rendering Library for SVG Creation](https://ximinng.github.io/PyTorch-SVGRender-project/)
 
+👥 Main Contributors: **Ximing Xing**, Juncheng Hu
+
 <b><u>TL;DR:</u></b> SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing.
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10-or?logo=python" alt="pyhton"></a>
@@ -208,8 +209,6 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <a href="https://ximinng.github.io/PyTorch-SVGRender-project/"><img src="https://img.shields.io/badge/Website-Gitpage-yellow" alt="website"></a>
 <a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/DOCS-Readthedocs-purple?logo=readthedocs" alt="docs"></a>
 <a href="https://huggingface.co/SVGRender"><img src="https://img.shields.io/badge/SPACE-HuggingFace-ffcc00?logo=huggingface" alt="space"></a>
-
-👥 Contributors: **Ximing Xing**, Juncheng Hu
 
 🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
 </div>
