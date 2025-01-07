@@ -94,7 +94,7 @@ arXiv, 2024
 <!-- paper 5 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='vectorpainter-cover.png' alt="VectorPainter"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/vectorpainter-cover.png' alt="VectorPainter"></div></div>
 <div class='paper-box-text' markdown="1">
 [VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
 
@@ -168,10 +168,6 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2024.12* National Scholarship for Doctoral Students.
-- *2021.12* National Scholarship
-
 [//]: # (# 📖 Educations)
 
 [//]: # (- *2022.09 - &#40;now&#41;*, Phd student, Beihang University, Beijing. )
@@ -198,11 +194,13 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 👥 Contributors: **Ximing Xing**, Juncheng Hu
 
-🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code
-**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs
-**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
+🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
 </div>
 </div>
+
+# 🎖 Honors and Awards
+- *2024.12* National Scholarship for Doctoral Students.
+- *2021.12* National Scholarship
 
 # 📑 Professional Activities
 
