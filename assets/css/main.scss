@@ -72,6 +72,9 @@
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
+            //
+            min-height: 100px;
+            max-height: 90%;
             order: 1;
         }
         
@@ -80,6 +83,7 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
+            color: #3b5998;
         }
 
     }

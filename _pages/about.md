@@ -55,7 +55,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 **Ximing Xing**, Juncheng Hu, Jing Zhang, Dong Xu, Qian Yu
 
-arXiv, 2024
+<b><u>TL;DR:</u></b> SVGFusion is a novel Text-to-SVG model that generates high-quality vector graphics by learning continuous latent space representations.
 
 [**Project**](https://ximinng.github.io/SVGFusionProject/) | [**Code**](https://github.com/ximinng/SVGFusion)
 </div>
@@ -70,7 +70,7 @@ arXiv, 2024
 
 **Ximing Xing**, Qian Yu, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu
 
-arXiv, 2024
+<b><u>TL;DR:</u></b> Upgrade version of SVGDreamer: A new optimization-based Text-to-SVG method 
 
 [**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2)
 </div>
@@ -85,7 +85,7 @@ arXiv, 2024
 
 **Ximing Xing**, Juncheng Hu, Guotao Liang, Jing Zhang, Dong Xu, Qian Yu
 
-arXiv, 2024
+<b><u>TL;DR:</u></b> LLM4SVG enables LLMs to understand and generate vector graphics using SVG Semantic Tokens.
 
 [**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG)
 </div>
@@ -100,7 +100,7 @@ arXiv, 2024
 
 Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
-arXiv, 2024
+<b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
 
 [//]: # ([**Project**]&#40;https://ximinng.github.io/SVGDreamerV2Project/&#41; | [**Code**]&#40;https://github.com/ximinng/SVGDreamerV2&#41;)
 </div>
@@ -109,11 +109,13 @@ arXiv, 2024
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' alt="SVGDreamer" width="80%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' alt="SVGDreamer"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu, Qian Yu
+
+<b><u>TL;DR:</u></b> SVGDreamer introduces semantic-driven vectorization (SIVE) and particle-based distillation (VPSD) to generate editable, high-quality SVGs with better shape control and diversity.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
@@ -124,11 +126,13 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 <!-- paper 3 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_cover.png' alt="DiffSketcher" width="90%"></div></div>
+<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_cover.png' alt="DiffSketcher"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Qian Yu, Dong Xu
+
+<b><u>TL;DR:</u></b> DiffSketcher pioneered the use of diffusion models for text-to-vector sketch generation.
 
 Advances in Neural Information Processing Systems (NeurIPS), 2023
 
@@ -139,14 +143,14 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 <!-- paper 2 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' alt="Inversion-By-Inversion" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' alt="Inversion-By-Inversion"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training](https://arxiv.org/abs/2308.07665)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Zhihao Hu, Chongxuan Li, Dong Xu, Qian Yu
 
-arXiv, 2023
+<b><u>TL;DR:</u></b> Free training for sketch control image synthesis via Stochastic Differential Equations (SDEs).
 
 [**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code
 **](https://github.com/ximinng/inversion-by-inversion)
@@ -156,12 +160,14 @@ arXiv, 2023
 <!-- paper 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' alt="DualGraph" width="70%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' alt="DualGraph"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
 
 HaiYang Zhang, **Ximing Xing**, Liang Liu
+
+<b><u>TL;DR:</u></b> DualGraph: The first method for label noise processing based on graph neural networks.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 </div>
@@ -184,6 +190,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <div class='paper-box-image'><div><div class="project-badge">open source</div><img src='images/PyTorch-SVGRender-cover.png' alt="PyTorch-SVGRender" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pytorch-SVGRender: A Differentiable Rendering Library for SVG Creation](https://ximinng.github.io/PyTorch-SVGRender-project/)
+
+<b><u>TL;DR:</u></b> SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing.
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10-or?logo=python" alt="pyhton"></a>
 <a href="http://mozilla.org/MPL/2.0/"><img src="https://img.shields.io/badge/License-MPL2.0-orange" alt="license"></a>
