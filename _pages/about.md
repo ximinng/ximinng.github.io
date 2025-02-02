@@ -21,51 +21,7 @@ I am a Ph.D. student in Software Engineering at Beihang University, advised
 by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis
 and robust machine learning.
 
-<div id="word-cloud" style="width: 500px; height: 300px;"></div>
-
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/d3-cloud/build/d3.layout.cloud.js"></script>
-<script>
-  const words = [
-    { text: "SVG Diffusion", size: 40 },
-    { text: "Deep Learning", size: 30 },
-    { text: "Vector Art", size: 25 },
-    { text: "Generative Models", size: 35 },
-    { text: "Text-to-SVG", size: 50 },
-    { text: "Neural Rendering", size: 20 }
-  ];
-
-  const width = 500;
-  const height = 300;
-
-  const layout = d3.layout.cloud()
-    .size([width, height])
-    .words(words)
-    .padding(5)
-    .rotate(() => ~~(Math.random() * 2) * 90)
-    .fontSize(d => d.size)
-    .on("end", draw);
-
-  layout.start();
-
-  function draw(words) {
-    d3.select("#word-cloud")
-      .append("svg")
-      .attr("width", width)
-      .attr("height", height)
-      .append("g")
-      .attr("transform", `translate(${width / 2},${height / 2})`)
-      .selectAll("text")
-      .data(words)
-      .enter()
-      .append("text")
-      .style("font-size", d => `${d.size}px`)
-      .style("fill", () => `hsl(${Math.random() * 360}, 100%, 50%)`)
-      .attr("text-anchor", "middle")
-      .attr("transform", d => `translate(${d.x},${d.y}) rotate(${d.rotate})`)
-      .text(d => d.text);
-  }
-</script>
+Key Words: **Vector Art, Text-to-SVG, Neural Rendering, SVG Diffusion, SVG LLM**
 
 <!-- https://github.com/idealclover/GitHub-Star-Counter -->
 <!-- <a href="https://github.com/ximinng/">
@@ -80,9 +36,7 @@ and robust machine learning.
 # 🔥 News
 
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) accepted by CVPR'2024!
-- *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender).
-  Pytorch-SVGRender is
-  the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
+- *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
 
 <!-- 
 # 📄 Writing
