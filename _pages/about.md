@@ -21,6 +21,52 @@ I am a Ph.D. student in Software Engineering at Beihang University, advised
 by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis
 and robust machine learning.
 
+<div id="word-cloud" style="width: 500px; height: 300px;"></div>
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-cloud/build/d3.layout.cloud.js"></script>
+<script>
+  const words = [
+    { text: "SVG Diffusion", size: 40 },
+    { text: "Deep Learning", size: 30 },
+    { text: "Vector Art", size: 25 },
+    { text: "Generative Models", size: 35 },
+    { text: "Text-to-SVG", size: 50 },
+    { text: "Neural Rendering", size: 20 }
+  ];
+
+  const width = 500;
+  const height = 300;
+
+  const layout = d3.layout.cloud()
+    .size([width, height])
+    .words(words)
+    .padding(5)
+    .rotate(() => ~~(Math.random() * 2) * 90)
+    .fontSize(d => d.size)
+    .on("end", draw);
+
+  layout.start();
+
+  function draw(words) {
+    d3.select("#word-cloud")
+      .append("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .append("g")
+      .attr("transform", `translate(${width / 2},${height / 2})`)
+      .selectAll("text")
+      .data(words)
+      .enter()
+      .append("text")
+      .style("font-size", d => `${d.size}px`)
+      .style("fill", () => `hsl(${Math.random() * 360}, 100%, 50%)`)
+      .attr("text-anchor", "middle")
+      .attr("transform", d => `translate(${d.x},${d.y}) rotate(${d.rotate})`)
+      .text(d => d.text);
+  }
+</script>
+
 <!-- https://github.com/idealclover/GitHub-Star-Counter -->
 <!-- <a href="https://github.com/ximinng/">
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng">
@@ -49,7 +95,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 8 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgfusion_cover.png' alt="SVGFusion"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgfusion_cover.png' loading="lazy" alt="SVGFusion"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion](https://arxiv.org/abs/2412.10437)
 
@@ -66,7 +112,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 7 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2_cover.png' alt="SVGDreamer++"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2_cover.png' loading="lazy" alt="SVGDreamer++"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832)
 
@@ -83,7 +129,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 6 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/llm4svg_cover.png' alt="LLM4SVG"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/llm4svg_cover.png' loading="lazy" alt="LLM4SVG"></div></div>
 <div class='paper-box-text' markdown="1">
 [Empowering LLMs to Understand and Generate Complex Vector Graphics](https://arxiv.org/abs/2412.11102)
 
@@ -91,7 +137,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2412.11102)
 
-<b><u>TL;DR:</u></b> LLM4SVG enables LLMs to understand and generate vector graphics using SVG Semantic Tokens.
+<b><u>TL;DR:</u></b> Unifying SVG generation and understanding via semantic tokens.
 
 [**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG)
 </div>
@@ -100,7 +146,7 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 5 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/vectorpainter-cover.png' alt="VectorPainter"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
 <div class='paper-box-text' markdown="1">
 [VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
 
@@ -115,7 +161,7 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' alt="SVGDreamer"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' loading="lazy" alt="SVGDreamer"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
@@ -134,7 +180,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 <!-- paper 3 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_cover.png' alt="DiffSketcher"></div></div>
+<div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_cover.png' loading="lazy" alt="DiffSketcher"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685)
 
@@ -153,7 +199,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 <!-- paper 2 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' alt="Inversion-By-Inversion"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' loading="lazy" alt="Inversion-By-Inversion"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training](https://arxiv.org/abs/2308.07665)
@@ -169,7 +215,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 <!-- paper 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' alt="DualGraph"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' loading="lazy" alt="DualGraph"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
@@ -216,7 +262,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 # 🎖 Honors and Awards
 - *2024.12* National Scholarship for Doctoral Students.
-- *2021.12* National Scholarship
+- *2021.12* National Scholarship.
 
 # 📑 Professional Activities
 
