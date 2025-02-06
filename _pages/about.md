@@ -109,6 +109,8 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 [![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2405.02962)
 
 <b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
+
+[**Project**](https://hjc-owo.github.io/VectorPainterProject/)
 </div>
 </div>
 
