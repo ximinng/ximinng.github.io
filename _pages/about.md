@@ -35,6 +35,7 @@ Key Words: **Vector Art, Text-to-SVG, Neural Rendering, SVG Diffusion, SVG LLM**
 
 # 🔥 News
 
+- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) accepted by T-PAMI!
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) accepted by CVPR'2024!
 - *2023.12*: &nbsp;🎉🎉 We released the [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender). Pytorch-SVGRender is the go-to library for state-of-the-art differentiable rendering methods for SVG generation.
 
@@ -66,17 +67,19 @@ January 1, 2022 · 10min · Ximing Xing
 <!-- paper 7 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgdreamerv2_cover.png' loading="lazy" alt="SVGDreamer++"></div></div>
+<div class='paper-box-image'><div><div class="badge">T-PAMI</div><img src='images/svgdreamerv2_cover.png' loading="lazy" alt="SVGDreamer++"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832)
 
 **Ximing Xing**, Qian Yu, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu
 
-[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2411.17832)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer++-orange.svg)](https://ximinng.github.io/SVGDreamerV2Project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamerV2)
 
 <b><u>TL;DR:</u></b> Upgrade version of SVGDreamer: A new optimization-based Text-to-SVG method 
 
-[**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2)
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+
+[**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer) 
 </div>
 </div>
 
@@ -123,7 +126,7 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Jing Zhang, Dong Xu, Qian Yu
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer-orange.svg)](https://ximinng.github.io/SVGDreamer-project/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Blog-SVGDreamer-green.svg)](https://huggingface.co/blog/xingxm/svgdreamer) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamer)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer-orange.svg)](https://ximinng.github.io/SVGDreamer-project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamer)
 
 <b><u>TL;DR:</u></b> SVGDreamer introduces semantic-driven vectorization (SIVE) and particle-based distillation (VPSD) to generate editable, high-quality SVGs with better shape control and diversity.
 
