@@ -56,7 +56,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 **Ximing Xing**, Juncheng Hu, Jing Zhang, Dong Xu, Qian Yu
 
-[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2412.10437)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDFusion-orange.svg)](https://ximinng.github.io/SVGFusionProject/) [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code+Stars)](https://github.com/ximinng/SVGFusion)
 
 <b><u>TL;DR:</u></b> SVGFusion is a novel Text-to-SVG model that generates high-quality vector graphics by learning continuous latent space representations.
 
@@ -92,7 +92,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 
 **Ximing Xing**, Juncheng Hu, Guotao Liang, Jing Zhang, Dong Xu, Qian Yu
 
-[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2412.11102)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-LLM4SVG-orange.svg)](https://ximinng.github.io/LLM4SVGProject/) [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code+Stars)](https://github.com/ximinng/LLM4SVG)
 
 <b><u>TL;DR:</u></b> Unifying SVG generation and understanding via semantic tokens.
 
@@ -101,23 +101,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 </div>
 
 <!-- paper 5 -->
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
-<div class='paper-box-text' markdown="1">
-[VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
-
-Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
-
-[![arXiv](https://img.shields.io/badge/Paper-arXiv_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/abs/2405.02962)
-
-<b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
-
-[**Project**](https://hjc-owo.github.io/VectorPainterProject/)
-</div>
-</div>
-
-<!-- paper 4 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' loading="lazy" alt="SVGDreamer"></div></div>
@@ -133,6 +116,23 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
 [**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
+</div>
+</div>
+
+<!-- paper 4 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
+<div class='paper-box-text' markdown="1">
+[VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
+
+Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-VectorPainter-orange.svg)](https://hjc-owo.github.io/VectorPainterProject/)
+
+<b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
+
+[**Project**](https://hjc-owo.github.io/VectorPainterProject/)
 </div>
 </div>
 
@@ -164,6 +164,8 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 [Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training](https://arxiv.org/abs/2308.07665)
 
 **Ximing Xing**, Chuang Wang, Haitao Zhou, Zhihao Hu, Chongxuan Li, Dong Xu, Qian Yu
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-InversionbyInversion-orange.svg)](https://ximinng.github.io/inversion-by-inversion-project/)
 
 <b><u>TL;DR:</u></b> Free training for sketch control image synthesis via Stochastic Differential Equations (SDEs).
 
