@@ -106,7 +106,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 <!-- paper 5 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamerv1_cover.png' loading="lazy" alt="SVGDreamer"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamer11_cover.png' loading="lazy" alt="SVGDreamer"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476)
 
@@ -179,7 +179,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 <!-- paper 1 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DualGraph-cover.png' loading="lazy" alt="DualGraph"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/dualgraph_cover.png' loading="lazy" alt="DualGraph"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Graph-Based Method for Reasoning About Label Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
