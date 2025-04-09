@@ -36,7 +36,7 @@ Key Words: **Vector Art, Text-to-SVG, Neural Rendering, SVG Diffusion, SVG LLM**
 # 🔥 News
 
 - *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR2025!**
-- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!**
+- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!**! This is the **first paper on SVG generation** ever published in **T-PAMI**.
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR 2024!**
 - *2023.12*: &nbsp;🎉🎉 We released [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender), a state-of-the-art library for differentiable SVG rendering in PyTorch.
 
@@ -125,7 +125,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 <!-- paper 4 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
+<div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
 <div class='paper-box-text' markdown="1">
 [VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
 
@@ -135,7 +135,7 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
 <b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
 
-[**Project**](https://hjc-owo.github.io/VectorPainterProject/)
+[**Project**](https://hjc-owo.github.io/VectorPainterProject/) | [**Code**](https://github.com/hjc-owo/VectorPainter)
 </div>
 </div>
 
