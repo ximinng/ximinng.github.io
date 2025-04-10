@@ -70,7 +70,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 <!-- paper 7 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">T-PAMI</div><img src='images/svgdreamerv2_cover.png' loading="lazy" alt="SVGDreamer++"></div></div>
+<div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/svgdreamerv2_cover.png' loading="lazy" alt="SVGDreamer++"></div></div>
 <div class='paper-box-text' markdown="1">
 [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832)
 
@@ -80,7 +80,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
 <b><u>TL;DR:</u></b> Upgrade version of SVGDreamer: A new optimization-based Text-to-SVG method 
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
 [**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer) 
 </div>
@@ -218,7 +218,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 <a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/DOCS-Readthedocs-purple?logo=readthedocs" alt="docs"></a>
 <a href="https://huggingface.co/SVGRender"><img src="https://img.shields.io/badge/SPACE-HuggingFace-ffcc00?logo=huggingface" alt="space"></a> [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code+Stars)](https://github.com/ximinng/PyTorch-SVGRender)
 
-🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁[**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗[**HuggingFace**](https://huggingface.co/SVGRender) | 📄[**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
+🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁 [**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗 [**HuggingFace**](https://huggingface.co/SVGRender) | 📄 [**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
 </div>
 </div>
 
