@@ -44,11 +44,9 @@ HuggingFace ([@xingxm profile](https://huggingface.co/xingxm), [SVGRender Space]
 # 🔥 News
 
 - *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR2025!**
-- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!**! This is the **first paper on SVG generation** ever published in **T-PAMI**.
-- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR
-  2024!**
-- *2023.12*: &nbsp;🎉🎉 We released [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender), a state-of-the-art
-  library for differentiable SVG rendering in PyTorch.
+- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI !** This is the **first paper on SVG generation** ever published in **T-PAMI**.
+- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR 2024!**
+- *2023.12*: &nbsp;🎉🎉 We released [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender), a state-of-the-art library for differentiable SVG rendering in PyTorch.
 
 <!-- 
 # 📄 Writing
@@ -58,7 +56,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 # 📝 Publications
 
-<h3 style="color: #1E90FF;">Topic: Vector Graphics Synthesis</h3>
+<h3 style="color: #4169E1;">Topic: Vector Graphics Synthesis</h3>
 
 <!-- paper 9 -->
 
@@ -188,7 +186,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 </div>
 </div>
 
-<h3 style="color: #1E90FF;">Topic: Controllable Text-to-Image Generation</h3>
+<h3 style="color: #4169E1;">Topic: Controllable Text-to-Image Generation</h3>
 
 <!-- paper 2 -->
 
@@ -209,7 +207,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 </div>
 </div>
 
-<h3 style="color: #1E90FF;">Topic: Robust Machine Learning</h3>
+<h3 style="color: #4169E1;">Topic: Robust Machine Learning</h3>
 
 <!-- paper 1 -->
 
@@ -278,6 +276,6 @@ Text-to-SVG, Image-to-SVG and SVG Editing.
 
 # 💻 Internships
 
-- *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), research intern. HangZhou, China.
+- *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), Machine Learning Algorithm Intern. HangZhou, China.
 
   Dialogue System, Task-based Dialogue System based on Deep Reinforcement Learning
