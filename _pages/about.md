@@ -26,16 +26,11 @@ synthesis, robust machine learning, text-to-SVG, neural rendering, SVG diffusion
 published in top-tier international conferences and journals such as CVPR, T-PAMI, and NeurIPS. Some of his
 representative works include:
 
-* **LLMs for Vector Graphics
-  **: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) ([Code](https://github.com/ximinng/LLM4SVG)), [Reason-SVG](https://arxiv.org/abs/2505.24499)
-* **Text-to-SVG Synthesis
-  **: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) ([Code](https://github.com/ximinng/SVGDreamerV2)), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) ([Code](https://github.com/ximinng/SVGDreamer))
-* **Vector Diffusion Models
-  **: [SVGFusion](https://ximinng.github.io/SVGFusionProject/) ([Code](https://github.com/ximinng/SVGFusion))
-* **Sketch Synthesis
-  **: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/) ([Code](https://github.com/ximinng/DiffSketcher))
-* **Differentiable SVG Rendering Library
-  **: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/) ([Code](https://github.com/ximinng/PyTorch-SVGRender))
+* **LLMs for Vector Graphics**: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) ([Code](https://github.com/ximinng/LLM4SVG)) [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code%20Stars)](https://github.com/ximinng/LLM4SVG), [Reason-SVG](https://arxiv.org/abs/2505.24499)
+* **Text-to-SVG Synthesis**: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) ([Code](https://github.com/ximinng/SVGDreamerV2)) [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamerV2), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) ([Code](https://github.com/ximinng/SVGDreamer)) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamer)
+* **Vector Diffusion Models**: [SVGFusion](https://ximinng.github.io/SVGFusionProject/) ([Code](https://github.com/ximinng/SVGFusion)) [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGFusion)
+* **Sketch Synthesis**: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/) ([Code](https://github.com/ximinng/DiffSketcher)) [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code%20Stars)](https://github.com/ximinng/DiffSketcher)
+* **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/) ([Code](https://github.com/ximinng/PyTorch-SVGRender)) [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code%20Stars)](https://github.com/ximinng/PyTorch-SVGRender)
 
 His commitment to open science is reflected in his popular open-source projects, which have collectively garnered a
 substantial number of stars on GitHub.
