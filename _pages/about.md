@@ -65,7 +65,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 **Ximing Xing**, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu
 
-<b><u>TL;DR:</u></b> Reason-SVG introduces the first framework to enhance SVG generation in LLMs through a <b>"Drawing-with-Thought"</b> (DwT) paradigm—combining explicit design reasoning with code—trained via supervised fine-tuning and reward-driven reinforcement learning.
+<b><u>TL;DR:</u></b> Reason-SVG introduces the first framework to enhance SVG generation in LLMs through a **"Drawing-with-Thought" (DwT)** paradigm—combining explicit design reasoning with code—trained via supervised fine-tuning and **HyperReward-driven** reinforcement learning.
 
 </div>
 </div>
@@ -81,11 +81,11 @@ January 1, 2022 · 10min · Ximing Xing
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-LLM4SVG-orange.svg)](https://ximinng.github.io/LLM4SVGProject/) [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code+Stars)](https://github.com/ximinng/LLM4SVG)
 
-<b><u>TL;DR:</u></b> Unifying SVG generation and understanding via semantic tokens.
+<b><u>TL;DR:</u></b> LLM4SVG introduces learnable **SVG Semantic Tokens** and a large **SVGX-SFT dataset**, enabling LLMs to understand and generate complex vector graphics.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
-[**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG)
+[**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG) | [**SVGX-SFT 1M Dataset**](https://huggingface.co/datasets/xingxm/SVGX-SFT-1M)
 </div>
 </div>
 
@@ -100,7 +100,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer++-orange.svg)](https://ximinng.github.io/SVGDreamerV2Project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamerV2)
 
-<b><u>TL;DR:</u></b> Upgrade version of SVGDreamer: A new optimization-based Text-to-SVG method
+<b><u>TL;DR:</u></b> SVGDreamer++ is an advanced text-to-SVG generator with two core innovations:
+**Hierarchical Image Vectorization (HIVE)** - enables semantic object-level and component-level image vectorization,
+and **Adaptive Vector Primitive Control** – dynamically assigns the optimal number of vector primitives, capturing fine-grained details without wasting computation.
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
@@ -119,10 +121,9 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGFusion-orange.svg)](https://ximinng.github.io/SVGFusionProject/) [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code+Stars)](https://github.com/ximinng/SVGFusion)
 
-<b><u>TL;DR:</u></b> SVGFusion is a novel Text-to-SVG model that generates high-quality vector graphics by learning
-continuous latent space representations.
+<b><u>TL;DR:</u></b> SVGFusion improves text-to-SVG generation by using a **VP-VAE to learn a vector representation of SVG elements**, and a **VS-DiT** to generate SVGs from text prompts by performing diffusion within that **learned vector space**.
 
-[**Project**](https://ximinng.github.io/SVGFusionProject/) | [**Code**](https://github.com/ximinng/SVGFusion)
+[**Project**](https://ximinng.github.io/SVGFusionProject/) | [**Code**](https://github.com/ximinng/SVGFusion) | [**SVGX-Core-250k Dataset**](https://huggingface.co/datasets/xingxm/SVGX-Core-250k)
 </div>
 </div>
 
@@ -137,8 +138,7 @@ continuous latent space representations.
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer-orange.svg)](https://ximinng.github.io/SVGDreamer-project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamer)
 
-<b><u>TL;DR:</u></b> SVGDreamer introduces semantic-driven vectorization (SIVE) and particle-based distillation (VPSD)
-to generate editable, high-quality SVGs with better shape control and diversity.
+<b><u>TL;DR:</u></b> SVGDreamer introduces **Semantic-driven Image VEctorization (SIVE)** and **Vector Particle-based Score Distillation (VPSD)** to generate editable, high-quality SVGs with better shape control and diversity.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
@@ -157,7 +157,7 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-VectorPainter-orange.svg)](https://hjc-owo.github.io/VectorPainterProject/)
 
-<b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by imitating strokes.
+<b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by **imitating stylized strokes**.
 
 [**Project**](https://hjc-owo.github.io/VectorPainterProject/) | [**Code**](https://github.com/hjc-owo/VectorPainter)
 </div>
@@ -174,11 +174,28 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-DiffSketcher-orange.svg)](https://ximinng.github.io/DiffSketcher-project/) [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code+Stars)](https://github.com/ximinng/DiffSketcher)
 
-<b><u>TL;DR:</u></b> DiffSketcher pioneered the use of diffusion models for text-to-vector sketch generation.
+<b><u>TL;DR:</u></b> DiffSketcher pioneered the use of diffusion models for **text-to-vector sketch** generation.
 
 Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 [**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/DiffSketcher)
+</div>
+</div>
+
+<h3 style="color: #4169E1;">🏷 Topic: CAD Generation</h3>
+
+<!-- paper 2 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' loading="lazy" alt="Inversion-By-Inversion"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward](https://arxiv.org/abs/2505.19713)
+
+Yandong Guan, Xilin Wang, **Ximing Xing**, Jing Zhang, Dong Xu, Qian Yu
+
+<b><u>TL;DR:</u></b> CAD-Coder enables LLMs to generate complex, valid 3D CAD models from text by outputting CadQuery (Python) scripts, using a novel two-stage training and chain-of-thought approach.
+
 </div>
 </div>
 
