@@ -56,10 +56,10 @@ January 1, 2022 · 10min · Ximing Xing
 
 <h3 style="color: #4169E1;">🏷️ Topic: Vector Graphics Synthesis</h3>
 
-<!-- paper 9 -->
+<!-- paper 10 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/reason-svg.png' loading="lazy" alt="ReasonSVG"></div></div>
+<div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/reason-svg.png' loading="lazy" alt="ReasonSVG"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499)
 
@@ -70,7 +70,7 @@ January 1, 2022 · 10min · Ximing Xing
 </div>
 </div>
 
-<!-- paper 8 -->
+<!-- paper 9 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/llm4svg_cover.png' loading="lazy" alt="LLM4SVG"></div></div>
@@ -89,7 +89,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 </div>
 </div>
 
-<!-- paper 7 -->
+<!-- paper 8 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/svgdreamerv2_cover.png' loading="lazy" alt="SVGDreamer++"></div></div>
@@ -110,7 +110,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 </div>
 </div>
 
-<!-- paper 6 -->
+<!-- paper 7 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgfusion_cover.png' loading="lazy" alt="SVGFusion"></div></div>
@@ -127,7 +127,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 </div>
 </div>
 
-<!-- paper 5 -->
+<!-- paper 6 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamer11_cover.png' loading="lazy" alt="SVGDreamer"></div></div>
@@ -146,7 +146,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 </div>
 </div>
 
-<!-- paper 4 -->
+<!-- paper 5 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
@@ -163,7 +163,7 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 </div>
 </div>
 
-<!-- paper 3 -->
+<!-- paper 4 -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_cover.png' loading="lazy" alt="DiffSketcher"></div></div>
@@ -184,10 +184,10 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 <h3 style="color: #4169E1;">🏷 Topic: CAD Generation</h3>
 
-<!-- paper 2 -->
+<!-- paper 3 -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' loading="lazy" alt="Inversion-By-Inversion"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cad-coder.png' loading="lazy" alt="Inversion-By-Inversion"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward](https://arxiv.org/abs/2505.19713)
