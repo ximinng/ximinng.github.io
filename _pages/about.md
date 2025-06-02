@@ -44,8 +44,7 @@ HuggingFace ([@xingxm profile](https://huggingface.co/xingxm), [SVGRender Space]
 # 🔥 News
 
 - *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR2025!**
-- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by *
-  *T-PAMI!**! This is the **first paper on SVG generation** ever published in **T-PAMI**.
+- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!**! This is the **first paper on SVG generation** ever published in **T-PAMI**.
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR
   2024!**
 - *2023.12*: &nbsp;🎉🎉 We released [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender), a state-of-the-art
