@@ -252,9 +252,7 @@ Text-to-SVG, Image-to-SVG and SVG Editing.
 <a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/DOCS-Readthedocs-purple?logo=readthedocs" alt="docs"></a>
 <a href="https://huggingface.co/SVGRender"><img src="https://img.shields.io/badge/SPACE-HuggingFace-ffcc00?logo=huggingface" alt="space"></a> [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code+Stars)](https://github.com/ximinng/PyTorch-SVGRender)
 
-🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁 [**Code
-**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗 [**HuggingFace**](https://huggingface.co/SVGRender) | 📄 [**Docs
-**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
+🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁 [**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗 [**HuggingFace**](https://huggingface.co/SVGRender) | 📄 [**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
 </div>
 </div>
 
