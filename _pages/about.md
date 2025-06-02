@@ -17,28 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Software Engineering at Beihang University, advised
-by [Prof. Qian Yu](https://yuqian1023.github.io/). My research focuses on deep generative models, vector art synthesis
-and robust machine learning.
+Ximing Xing is a Ph.D. student (2022-Present) in Software Engineering at Beihang University, advised by
+Professor [Qian Yu](https://yuqian1023.github.io/).
 
-Key Words: **Vector Art, Text-to-SVG, Neural Rendering, SVG Diffusion, SVG LLM**
+He is dedicated to advancing the frontiers of AI-driven content creation, with a particular focus on the generation and
+understanding of vector graphics. To this end, his research interests include **deep generative models, vector art
+synthesis, robust machine learning, text-to-SVG, neural rendering, SVG diffusion, and SVG LLMs**. His research has been
+published in top-tier international conferences and journals such as CVPR, T-PAMI, and NeurIPS. Some of his
+representative works include:
 
-<!-- https://github.com/idealclover/GitHub-Star-Counter -->
-<!-- <a href="https://github.com/ximinng/">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng">
-</a>
-<a href="https://huggingface.co/xingxm">
-  <img src="https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge" alt="GitHub Stars">
-</a> -->
+* **LLMs for Vector Graphics
+  **: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) ([Code](https://github.com/ximinng/LLM4SVG)), [Reason-SVG](https://arxiv.org/abs/2505.24499)
+* **Text-to-SVG Synthesis
+  **: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) ([Code](https://github.com/ximinng/SVGDreamerV2)), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) ([Code](https://github.com/ximinng/SVGDreamer))
+* **Vector Diffusion Models
+  **: [SVGFusion](https://ximinng.github.io/SVGFusionProject/) ([Code](https://github.com/ximinng/SVGFusion))
+* **Sketch Synthesis
+  **: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/) ([Code](https://github.com/ximinng/DiffSketcher))
+* **Differentiable SVG Rendering Library
+  **: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/) ([Code](https://github.com/ximinng/PyTorch-SVGRender))
+
+His commitment to open science is reflected in his popular open-source projects, which have collectively garnered a
+substantial number of stars on GitHub.
 [![github](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng)](https://github.com/ximinng/)
-[![blog](https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge)](https://huggingface.co/xingxm)
+
+He further contributes to the AI community by sharing models and hosting interactive demonstrations on
+HuggingFace ([@xingxm profile](https://huggingface.co/xingxm), [SVGRender Space](https://huggingface.co/SVGRender)).
+
+[//]: # ([![blog]&#40;https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge&#41;]&#40;https://huggingface.co/xingxm&#41;)
 
 # 🔥 News
 
 - *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR2025!**
-- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!**! This is the **first paper on SVG generation** ever published in **T-PAMI**.
-- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR 2024!**
-- *2023.12*: &nbsp;🎉🎉 We released [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender), a state-of-the-art library for differentiable SVG rendering in PyTorch.
+- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by *
+  *T-PAMI!**! This is the **first paper on SVG generation** ever published in **T-PAMI**.
+- *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR
+  2024!**
+- *2023.12*: &nbsp;🎉🎉 We released [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender), a state-of-the-art
+  library for differentiable SVG rendering in PyTorch.
 
 <!-- 
 # 📄 Writing
@@ -47,6 +63,22 @@ January 1, 2022 · 10min · Ximing Xing
 -->
 
 # 📝 Publications
+
+<h3 style="color: #1E90FF;">Topic: Vector Graphics Synthesis</h3>
+
+<!-- paper 9 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/reason-svg.png' loading="lazy" alt="ReasonSVG"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499)
+
+**Ximing Xing**, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu
+
+<b><u>TL;DR:</u></b> Reason-SVG introduces the first framework to enhance SVG generation in LLMs through a <b>"Drawing-with-Thought"</b> (DwT) paradigm—combining explicit design reasoning with code—trained via supervised fine-tuning and reward-driven reinforcement learning.
+
+</div>
+</div>
 
 <!-- paper 8 -->
 
@@ -78,11 +110,12 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer++-orange.svg)](https://ximinng.github.io/SVGDreamerV2Project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamerV2)
 
-<b><u>TL;DR:</u></b> Upgrade version of SVGDreamer: A new optimization-based Text-to-SVG method 
+<b><u>TL;DR:</u></b> Upgrade version of SVGDreamer: A new optimization-based Text-to-SVG method
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
-[**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer) 
+[**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2) | [*
+*Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
 </div>
 
@@ -97,7 +130,8 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGFusion-orange.svg)](https://ximinng.github.io/SVGFusionProject/) [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code+Stars)](https://github.com/ximinng/SVGFusion)
 
-<b><u>TL;DR:</u></b> SVGFusion is a novel Text-to-SVG model that generates high-quality vector graphics by learning continuous latent space representations.
+<b><u>TL;DR:</u></b> SVGFusion is a novel Text-to-SVG model that generates high-quality vector graphics by learning
+continuous latent space representations.
 
 [**Project**](https://ximinng.github.io/SVGFusionProject/) | [**Code**](https://github.com/ximinng/SVGFusion)
 </div>
@@ -114,11 +148,13 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGDreamer-orange.svg)](https://ximinng.github.io/SVGDreamer-project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code+Stars)](https://github.com/ximinng/SVGDreamer)
 
-<b><u>TL;DR:</u></b> SVGDreamer introduces semantic-driven vectorization (SIVE) and particle-based distillation (VPSD) to generate editable, high-quality SVGs with better shape control and diversity.
+<b><u>TL;DR:</u></b> SVGDreamer introduces semantic-driven vectorization (SIVE) and particle-based distillation (VPSD)
+to generate editable, high-quality SVGs with better shape control and diversity.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
-[**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
+[**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [*
+*Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
 </div>
 
@@ -158,6 +194,8 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 </div>
 </div>
 
+<h3 style="color: #1E90FF;">Topic: Controllable Text-to-Image Generation</h3>
+
 <!-- paper 2 -->
 
 <div class='paper-box'>
@@ -172,9 +210,12 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 <b><u>TL;DR:</u></b> Free training for sketch control image synthesis via Stochastic Differential Equations (SDEs).
 
-[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/ximinng/inversion-by-inversion)
+[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code
+**](https://github.com/ximinng/inversion-by-inversion)
 </div>
 </div>
+
+<h3 style="color: #1E90FF;">Topic: Robust Machine Learning</h3>
 
 <!-- paper 1 -->
 
@@ -212,17 +253,22 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 👥 Main Contributors: **Ximing Xing**, Juncheng Hu
 
-<b><u>TL;DR:</u></b> SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing.
+<b><u>TL;DR:</u></b> SVG Differentiable Rendering: Generating vector graphics using neural networks. Support:
+Text-to-SVG, Image-to-SVG and SVG Editing.
 
 <a href="https://ximinng.github.io/PyTorch-SVGRender-project/"><img src="https://img.shields.io/badge/Website-Gitpage-yellow" alt="website"></a>
 <a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/DOCS-Readthedocs-purple?logo=readthedocs" alt="docs"></a>
 <a href="https://huggingface.co/SVGRender"><img src="https://img.shields.io/badge/SPACE-HuggingFace-ffcc00?logo=huggingface" alt="space"></a> [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code+Stars)](https://github.com/ximinng/PyTorch-SVGRender)
 
-🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁 [**Code**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗 [**HuggingFace**](https://huggingface.co/SVGRender) | 📄 [**Docs**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
+🌐 [**Project**](https://ximinng.github.io/PyTorch-SVGRender-project/) | 📁 [**Code
+**](https://github.com/ximinng/PyTorch-SVGRender) | 🤗 [**HuggingFace**](https://huggingface.co/SVGRender) | 📄 [**Docs
+**](https://pytorch-svgrender.readthedocs.io/en/latest/index.html)
 </div>
 </div>
 
 # 🎖 Honors and Awards
+
+- *2025.04* Academic Excellence Foundation of BUAA for PhD Students.
 - *2024.12* National Scholarship for Doctoral Students.
 - *2021.12* National Scholarship.
 
@@ -230,7 +276,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 - Conference Reviewer
 
-  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025, CVPR 2025, SIGGRAPH 2025
+  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025, CVPR 2025, SIGGRAPH 2025, NIPS 2025
 
 - Journal Reviewer
 
