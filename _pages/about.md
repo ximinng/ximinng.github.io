@@ -17,20 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ximing Xing is a Ph.D. student (2022-Present) in Software Engineering at Beihang University, advised by
-Professor [Qian Yu](https://yuqian1023.github.io/).
+Ximing Xing is a Ph.D. student (2022-Present) in Software Engineering at Beihang University, advised by Professor [Qian Yu](https://yuqian1023.github.io/).
 
-He is dedicated to advancing the frontiers of AI-driven content creation, with a particular focus on the generation and
-understanding of vector graphics. To this end, his research interests include **deep generative models, vector art
-synthesis, robust machine learning, text-to-SVG, neural rendering, SVG diffusion, and SVG LLMs**. His research has been
-published in top-tier international conferences and journals such as CVPR, T-PAMI, and NeurIPS. Some of his
-representative works include:
+He is dedicated to advancing the frontiers of AI-driven content creation, with a particular focus on the generation and understanding of vector graphics. 
+To this end, his research interests include **deep generative models, vector art synthesis, text-to-SVG, neural rendering, SVG diffusion, and SVG LLMs**. 
+His research has been published in top-tier international conferences and journals such as CVPR, T-PAMI, and NeurIPS. 
+Some of his representative works include:
 
-* **LLMs for Vector Graphics**: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) ([Code](https://github.com/ximinng/LLM4SVG)) [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code%20Stars)](https://github.com/ximinng/LLM4SVG), [Reason-SVG](https://arxiv.org/abs/2505.24499)
-* **Text-to-SVG Synthesis**: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) ([Code](https://github.com/ximinng/SVGDreamerV2)) [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamerV2), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) ([Code](https://github.com/ximinng/SVGDreamer)) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamer)
-* **Vector Diffusion Models**: [SVGFusion](https://ximinng.github.io/SVGFusionProject/) ([Code](https://github.com/ximinng/SVGFusion)) [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGFusion)
-* **Sketch Synthesis**: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/) ([Code](https://github.com/ximinng/DiffSketcher)) [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code%20Stars)](https://github.com/ximinng/DiffSketcher)
-* **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/) ([Code](https://github.com/ximinng/PyTorch-SVGRender)) [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code%20Stars)](https://github.com/ximinng/PyTorch-SVGRender)
+* **LLMs for Vector Graphics**: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/)[[Code](https://github.com/ximinng/LLM4SVG)] [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code%20Stars)](https://github.com/ximinng/LLM4SVG), [Reason-SVG](https://arxiv.org/abs/2505.24499)
+* **Text-to-SVG Synthesis**: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/)[[Code](https://github.com/ximinng/SVGDreamerV2)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamerV2), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) [[Code](https://github.com/ximinng/SVGDreamer)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamer)
+* **Vector Diffusion Models**: [SVGFusion](https://ximinng.github.io/SVGFusionProject/)[[Code](https://github.com/ximinng/SVGFusion)] [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGFusion)
+* **Sketch Synthesis**: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/)[[Code](https://github.com/ximinng/DiffSketcher)] [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code%20Stars)](https://github.com/ximinng/DiffSketcher)
+* **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/)[[Code](https://github.com/ximinng/PyTorch-SVGRender)] [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code%20Stars)](https://github.com/ximinng/PyTorch-SVGRender)
 
 His commitment to open science is reflected in his popular open-source projects, which have collectively garnered a
 substantial number of stars on GitHub.
@@ -56,7 +54,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 # 📝 Publications
 
-<h3 style="color: #4169E1;">Topic: Vector Graphics Synthesis</h3>
+<h3 style="color: #4169E1;">🏷️ Topic: Vector Graphics Synthesis</h3>
 
 <!-- paper 9 -->
 
@@ -106,8 +104,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
-[**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2) | [*
-*Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
+[**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
 </div>
 
@@ -145,8 +142,7 @@ to generate editable, high-quality SVGs with better shape control and diversity.
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
-[**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [*
-*Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
+[**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
 </div>
 
@@ -186,7 +182,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 </div>
 </div>
 
-<h3 style="color: #4169E1;">Topic: Controllable Text-to-Image Generation</h3>
+<h3 style="color: #4169E1;">🏷 Topic: Controllable Text-to-Image Generation</h3>
 
 <!-- paper 2 -->
 
@@ -202,12 +198,11 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 
 <b><u>TL;DR:</u></b> Free training for sketch control image synthesis via Stochastic Differential Equations (SDEs).
 
-[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code
-**](https://github.com/ximinng/inversion-by-inversion)
+[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/ximinng/inversion-by-inversion)
 </div>
 </div>
 
-<h3 style="color: #4169E1;">Topic: Robust Machine Learning</h3>
+<h3 style="color: #4169E1;">🏷 Topic: Robust Machine Learning</h3>
 
 <!-- paper 1 -->
 
@@ -274,6 +269,10 @@ Text-to-SVG, Image-to-SVG and SVG Editing.
 
 # 💻 Internships
 
-- *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), Machine Learning Algorithm Intern. HangZhou, China.
+- *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), machine learning algorithm intern. HangZhou, China.
 
-  Dialogue System, Task-based Dialogue System based on Deep Reinforcement Learning
+  **Multi-Turn Task-Oriented Dialogue System** based on deep reinforcement learning.
+
+  - Behavior cloning to enhance model cold-start training.
+  - Agenda-based User Simulator in RL.
+  - Turns- and sessions-level reward design for PPO training.
