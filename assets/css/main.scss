@@ -48,7 +48,7 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
+
 
     .paper-box-image{
         justify-content: center;
@@ -61,12 +61,12 @@
             object-fit: cover;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -77,7 +77,7 @@
             max-height: 80%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
@@ -91,12 +91,12 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
@@ -122,14 +122,26 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* 新增链接样式 */
+/* 链接样式 */
 a {
-    color: #0066cc; /* 默认蓝色 */
+    color: #1674D1; /* 默认蓝色 */
     text-decoration: none;
-    transition: color 0.3s ease; /* 颜色渐变效果 */
+    transition: color 0.3s ease; /* 颜色渐变效果: 在0.3秒内平滑过渡颜色变化 */
 
     &:hover {
-        color: #003366; /* 鼠标悬停时的深蓝色 */
+        /* 深蓝色: #003366 */
+        color: #7264C7; /* 鼠标悬停时的颜色 */
         text-decoration: underline;
     }
+}
+
+/* Define custom properties (variables) in the :root */
+:root {
+  --paragraph-text-color: #B56CA5; /* 给段落颜色定义一个属性 */
+}
+
+/* 字体样式 */
+.conf-color {
+  color: var(--paragraph-text-color); /* 使用定义的属性 */
+  transition: color 0.3s ease; /* 颜色渐变效果 */
 }

@@ -25,7 +25,7 @@ His research has been published in top-tier international conferences and journa
 Some of his representative works include:
 
 * **LLMs for Vector Graphics**: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/)[[Code](https://github.com/ximinng/LLM4SVG)] [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code%20Stars)](https://github.com/ximinng/LLM4SVG), [Reason-SVG](https://arxiv.org/abs/2505.24499)
-* **Text-to-SVG Synthesis**: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/)[[Code](https://github.com/ximinng/SVGDreamerV2)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamerV2), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) [[Code](https://github.com/ximinng/SVGDreamer)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamer)
+* **Text-to-SVG Synthesis**: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/)[[Code](https://github.com/ximinng/SVGDreamerV2)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamerV2), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/)[[Code](https://github.com/ximinng/SVGDreamer)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamer)
 * **Vector Diffusion Models**: [SVGFusion](https://ximinng.github.io/SVGFusionProject/)[[Code](https://github.com/ximinng/SVGFusion)] [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGFusion)
 * **Sketch Synthesis**: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/)[[Code](https://github.com/ximinng/DiffSketcher)] [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code%20Stars)](https://github.com/ximinng/DiffSketcher)
 * **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/)[[Code](https://github.com/ximinng/PyTorch-SVGRender)] [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code%20Stars)](https://github.com/ximinng/PyTorch-SVGRender)
@@ -159,6 +159,8 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
 <b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by **imitating stylized strokes**.
 
+<p class="conf-color">IEEE International Conference on Multimedia & Expo (ICME'25)</p>
+
 [**Project**](https://hjc-owo.github.io/VectorPainterProject/) | [**Code**](https://github.com/hjc-owo/VectorPainter)
 </div>
 </div>
@@ -176,7 +178,7 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 
 <b><u>TL;DR:</u></b> DiffSketcher pioneered the use of diffusion models for **text-to-vector sketch** generation.
 
-Advances in Neural Information Processing Systems (NeurIPS), 2023
+<p class="conf-color">Advances in Neural Information Processing Systems (NeurIPS'23)</p>
 
 [**Project**](https://ximinng.github.io/DiffSketcher-project/) | [**Code**](https://github.com/ximinng/DiffSketcher)
 </div>
@@ -233,7 +235,7 @@ HaiYang Zhang, **Ximing Xing**, Liang Liu
 
 <b><u>TL;DR:</u></b> DualGraph, the first method for label noise processing based on graph neural networks.
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
+<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR 2021</b>)</p>
 </div>
 </div>
 
@@ -257,8 +259,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 👥 Main Contributors: **Ximing Xing**, Juncheng Hu
 
-<b><u>TL;DR:</u></b> SVG Differentiable Rendering: Generating vector graphics using neural networks. Support:
-Text-to-SVG, Image-to-SVG and SVG Editing.
+<b><u>TL;DR:</u></b> SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: Text-to-SVG, Image-to-SVG and SVG Editing.
 
 <a href="https://ximinng.github.io/PyTorch-SVGRender-project/"><img src="https://img.shields.io/badge/Website-Gitpage-yellow" alt="website"></a>
 <a href="https://pytorch-svgrender.readthedocs.io/en/latest/index.html"><img src="https://img.shields.io/badge/DOCS-Readthedocs-purple?logo=readthedocs" alt="docs"></a>
@@ -268,21 +269,11 @@ Text-to-SVG, Image-to-SVG and SVG Editing.
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Honors & Awards
 
 - *2025.04* Academic Excellence Foundation of BUAA for PhD Students.
 - *2024.12* National Scholarship for Doctoral Students.
 - *2021.12* National Scholarship.
-
-# 📑 Professional Activities
-
-- Conference Reviewer
-
-  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025, CVPR 2025, SIGGRAPH 2025, NIPS 2025
-
-- Journal Reviewer
-
-  IJCV, IEEE T-VCG
 
 # 💻 Internships
 
@@ -293,3 +284,13 @@ Text-to-SVG, Image-to-SVG and SVG Editing.
   - Behavior cloning to enhance model cold-start training.
   - Agenda-based User Simulator in RL.
   - Turns- and sessions-level reward design for PPO training.
+
+# 📑 Professional Activities
+
+- Conference Reviewer
+
+  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025, CVPR 2025, SIGGRAPH 2025, NIPS 2025
+
+- Journal Reviewer
+
+  IJCV, IEEE T-VCG
