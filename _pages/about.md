@@ -47,7 +47,7 @@ Beyond academic publications, he actively contributes to the broader AI communit
 
 # 📝 Publications
 
-<h3 style="color: #4169E1;">🏷️ Topic: Vector Graphics Synthesis</h3>
+<h3 style="color: #0066cc;">🏷️ Topic: Vector Graphics Synthesis</h3>
 
 <!-- paper 10 -->
 
@@ -177,7 +177,7 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 </div>
 </div>
 
-<h3 style="color: #4169E1;">🏷 Topic: CAD Generation</h3>
+<h3 style="color: #0066cc;">🏷 Topic: CAD Generation</h3>
 
 <!-- paper 3 -->
 
@@ -194,7 +194,7 @@ Yandong Guan, Xilin Wang, **Ximing Xing**, Jing Zhang, Dong Xu, Qian Yu
 </div>
 </div>
 
-<h3 style="color: #4169E1;">🏷 Topic: Controllable Text-to-Image Generation</h3>
+<h3 style="color: #0066cc;">🏷 Topic: Controllable Text-to-Image Generation</h3>
 
 <!-- paper 2 -->
 
@@ -214,7 +214,7 @@ Yandong Guan, Xilin Wang, **Ximing Xing**, Jing Zhang, Dong Xu, Qian Yu
 </div>
 </div>
 
-<h3 style="color: #4169E1;">🏷 Topic: Robust Machine Learning</h3>
+<h3 style="color: #0066cc;">🏷 Topic: Robust Machine Learning</h3>
 
 <!-- paper 1 -->
 
