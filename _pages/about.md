@@ -25,11 +25,11 @@ understanding of vector graphics. His research spans **deep generative models, v
 His groundbreaking work has been published in top-tier venues including **CVPR'24/25, T-PAMI'25, and NeurIPS'23**, with his **T-PAMI paper being the first SVG generation work ever published** in this prestigious journal. 
 Some of his representative works include:
 
-* **LLMs for Vector Graphics**: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/)[[Code](https://github.com/ximinng/LLM4SVG)] [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code%20Stars)](https://github.com/ximinng/LLM4SVG), [Reason-SVG](https://arxiv.org/abs/2505.24499)
-* **Text-to-SVG Synthesis**: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/)[[Code](https://github.com/ximinng/SVGDreamerV2)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamerV2), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/)[[Code](https://github.com/ximinng/SVGDreamer)] [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGDreamer)
-* **Vector Diffusion Models**: [SVGFusion](https://ximinng.github.io/SVGFusionProject/)[[Code](https://github.com/ximinng/SVGFusion)] [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code%20Stars)](https://github.com/ximinng/SVGFusion)
-* **Sketch Synthesis**: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/)[[Code](https://github.com/ximinng/DiffSketcher)] [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code%20Stars)](https://github.com/ximinng/DiffSketcher)
-* **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/)[[Code](https://github.com/ximinng/PyTorch-SVGRender)] [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code%20Stars)](https://github.com/ximinng/PyTorch-SVGRender)
+* **LLMs for Vector Graphics**: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code)](https://github.com/ximinng/LLM4SVG), [Reason-SVG](https://arxiv.org/abs/2505.24499)
+* **Text-to-SVG Synthesis**: [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamerV2?style=social&label=Code)](https://github.com/ximinng/SVGDreamerV2), [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) [![](https://img.shields.io/github/stars/ximinng/SVGDreamer?style=social&label=Code)](https://github.com/ximinng/SVGDreamer)
+* **Vector Diffusion Models**: [SVGFusion](https://ximinng.github.io/SVGFusionProject/) [![](https://img.shields.io/github/stars/ximinng/SVGFusion?style=social&label=Code)](https://github.com/ximinng/SVGFusion)
+* **Sketch Synthesis**: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/) [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code)](https://github.com/ximinng/DiffSketcher)
+* **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/) [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code)](https://github.com/ximinng/PyTorch-SVGRender)
 
 **Impact & Open Science**: His commitment to open science and reproducible research is reflected in his highly influential open-source projects, which have collectively garnered substantial community adoption on GitHub.
 [![github](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng)](https://github.com/ximinng/)
@@ -76,7 +76,7 @@ Beyond academic publications, he actively contributes to the broader AI communit
 
 <b><u>TL;DR:</u></b> LLM4SVG introduces learnable **SVG Semantic Tokens** and a large **SVGX-SFT dataset**, enabling LLMs to understand and generate complex vector graphics.
 
-<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>
+<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'25)</p>
 
 [**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG) | [**SVGX-SFT-1M Dataset**](https://huggingface.co/datasets/xingxm/SVGX-SFT-1M)
 </div>
@@ -133,7 +133,7 @@ and **Adaptive Vector Primitive Control** – dynamically assigns the optimal nu
 
 <b><u>TL;DR:</u></b> SVGDreamer introduces **Semantic-driven Image VEctorization (SIVE)** and **Vector Particle-based Score Distillation (VPSD)** to generate editable, high-quality SVGs with better shape control and diversity.
 
-<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>
+<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'24)</p>
 
 [**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
@@ -228,7 +228,7 @@ HaiYang Zhang, **Ximing Xing**, Liang Liu
 
 <b><u>TL;DR:</u></b> DualGraph, the first method for label noise processing based on graph neural networks.
 
-<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR 2021</b>)</p>
+<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'21)</p>
 </div>
 </div>
 
@@ -289,13 +289,13 @@ HaiYang Zhang, **Ximing Xing**, Liang Liu
 
 #### Conference Reviewer
 
-**2025**: AAAI, CVPR, SIGGRAPH, SIGGRAPH Asia, NeurIPS
+- **2025**: AAAI, CVPR, SIGGRAPH, SIGGRAPH Asia, NeurIPS
 
-**2024**: CVPR, ECCV, NeurIPS, ACM MM
+- **2024**: CVPR, ECCV, NeurIPS, ACM MM
 
 #### Journal Reviewer
 
-**Computer Vision & Graphics**: International Journal of Computer Vision (IJCV), IEEE Transactions on Visualization and Computer Graphics (T-VCG)
+- **Computer Vision & Graphics**: International Journal of Computer Vision (IJCV), IEEE Transactions on Visualization and Computer Graphics (T-VCG)
 
 #### Academic Service
 
