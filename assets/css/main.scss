@@ -40,6 +40,22 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   Enhanced Color Palette
+   ========================================================================== */
+
+:root {
+  --primary-blue: #0066cc;
+  --primary-blue-hover: #0052a3;
+  --accent-green: #00b894;
+  --text-primary: #2d3748;
+  --text-secondary: #4a5568;
+}
+
+/* ==========================================================================
+   Paper Box Layout
+   ========================================================================== */
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,7 +64,6 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-
 
     .paper-box-image{
         justify-content: center;
@@ -72,7 +87,6 @@
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
-            //
             min-height: 100px;
             max-height: 80%;
             order: 1;
@@ -84,11 +98,12 @@
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
+
+/* ==========================================================================
+   Scroll Offset for Anchors
+   ========================================================================== */
 
 $scroll_offset : 2em;
 h1:before, .anchor:before {
@@ -100,6 +115,10 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+/* ==========================================================================
+   Enhanced Badge Styles
+   ========================================================================== */
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -107,8 +126,16 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background: linear-gradient(135deg, var(--primary-blue), var(--primary-blue-hover));
+    box-shadow: 0 2px 4px rgba(0, 102, 204, 0.2);
     font-size: .8em;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.badge:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 102, 204, 0.3);
 }
 
 .project-badge {
@@ -118,30 +145,80 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #14cc7d;
+    background: linear-gradient(135deg, var(--accent-green), #00a085);
+    box-shadow: 0 2px 4px rgba(0, 184, 148, 0.2);
     font-size: .8em;
+    border-radius: 4px;
+    transition: all 0.3s ease;
 }
 
-/* 链接样式 */
+.project-badge:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 184, 148, 0.3);
+}
+
+/* ==========================================================================
+   Enhanced Link Styles
+   ========================================================================== */
+
 a {
-    color: #1674D1; /* 默认蓝色 */
+    color: var(--primary-blue);
     text-decoration: none;
-    transition: color 0.3s ease; /* 颜色渐变效果: 在0.3秒内平滑过渡颜色变化 */
-
-    &:hover {
-        /* 深蓝色: #003366 */
-        color: #7264C7; /* 鼠标悬停时的颜色 */
-        text-decoration: underline;
-    }
+    transition: all 0.2s ease-in-out;
+    border-bottom: 1px solid transparent;
 }
 
-/* Define custom properties (variables) in the :root */
-:root {
-  --paragraph-text-color: #B56CA5; /* 给段落颜色定义一个属性 */
+a:hover {
+    color: var(--primary-blue-hover);
+    border-bottom-color: var(--primary-blue-hover);
 }
 
-/* 字体样式 */
+a:visited {
+    color: var(--primary-blue);
+}
+
+/* Paper title links */
+.paper-box-text h2 a,
+.paper-box-text h3 a {
+    color: var(--text-primary);
+    font-weight: 600;
+    border-bottom: none;
+}
+
+.paper-box-text h2 a:hover,
+.paper-box-text h3 a:hover {
+    color: var(--primary-blue);
+}
+
+/* ==========================================================================
+   Conference Name Styling
+   ========================================================================== */
+
 .conf-color {
-  color: var(--paragraph-text-color); /* 使用定义的属性 */
-  transition: color 0.3s ease; /* 颜色渐变效果 */
+    color: var(--text-secondary);
+    font-style: italic;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+/* ==========================================================================
+   Interactive Elements
+   ========================================================================== */
+
+.btn {
+    transition: all 0.2s ease-in-out;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* GitHub stars badge hover effect */
+a[href*="github.com"] img {
+    transition: all 0.2s ease-in-out;
+}
+
+a[href*="github.com"] img:hover {
+    transform: scale(1.05);
 }

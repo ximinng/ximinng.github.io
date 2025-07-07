@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ximing Xing is a Ph.D. student (2022-Present) in Software Engineering at Beihang University, advised by Professor [Qian Yu](https://yuqian1023.github.io/).
+Ximing Xing is a Ph.D. student (2022-Present) in Software Engineering at Beihang University, advised by Professor [Qian Yu](https://yuqian1023.github.io/). He is currently a research intern at Tencent Hunyuan, working on multimodal vector graphics large language models.
 
-He is dedicated to advancing the frontiers of AI-driven content creation, with a particular focus on the generation and understanding of vector graphics. 
-To this end, his research interests include **deep generative models, vector art synthesis, text-to-SVG, neural rendering, SVG diffusion, and SVG LLMs**. 
-His research has been published in top-tier international conferences and journals such as CVPR, T-PAMI, and NeurIPS. 
+He is dedicated to advancing the frontiers of AI-driven content creation, with a particular focus on the generation and 
+understanding of vector graphics. His research spans **deep generative models, vector art synthesis, text-to-SVG generation, neural rendering, SVG diffusion models, and multimodal SVG LLMs**. 
+
+His groundbreaking work has been published in top-tier venues including **CVPR'24/25, T-PAMI'25, and NeurIPS'23**, with his **T-PAMI paper being the first SVG generation work ever published** in this prestigious journal. 
 Some of his representative works include:
 
 * **LLMs for Vector Graphics**: [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/)[[Code](https://github.com/ximinng/LLM4SVG)] [![](https://img.shields.io/github/stars/ximinng/LLM4SVG?style=social&label=Code%20Stars)](https://github.com/ximinng/LLM4SVG), [Reason-SVG](https://arxiv.org/abs/2505.24499)
@@ -30,27 +31,19 @@ Some of his representative works include:
 * **Sketch Synthesis**: [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/)[[Code](https://github.com/ximinng/DiffSketcher)] [![](https://img.shields.io/github/stars/ximinng/DiffSketcher?style=social&label=Code%20Stars)](https://github.com/ximinng/DiffSketcher)
 * **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/)[[Code](https://github.com/ximinng/PyTorch-SVGRender)] [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code%20Stars)](https://github.com/ximinng/PyTorch-SVGRender)
 
-His commitment to open science is reflected in his popular open-source projects, which have collectively garnered a
-substantial number of stars on GitHub.
+**Impact & Open Science**: His commitment to open science and reproducible research is reflected in his highly influential open-source projects, which have collectively garnered substantial community adoption on GitHub.
 [![github](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng)](https://github.com/ximinng/)
 
-He further contributes to the AI community by sharing models and hosting interactive demonstrations on
-HuggingFace ([@xingxm profile](https://huggingface.co/xingxm), [SVGRender Space](https://huggingface.co/SVGRender)).
+Beyond academic publications, he actively contributes to the broader AI community through **large-scale datasets**, **production-ready code libraries**, and **interactive demos** on HuggingFace ([@xingxm profile](https://huggingface.co/xingxm), [SVGRender Space](https://huggingface.co/SVGRender)), making cutting-edge vector graphics research accessible to researchers and practitioners worldwide.
 
 [//]: # ([![blog]&#40;https://img.shields.io/badge/huggingface-space-ffcc00?logo=huggingface&style=for-the-badge&#41;]&#40;https://huggingface.co/xingxm&#41;)
 
 # 🔥 News
 
-- *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR2025!**
-- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI !** This is the **first paper on SVG generation** ever published in **T-PAMI**.
+- *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR 2025!**
+- *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!** This is the **first paper on SVG generation** ever published in **T-PAMI**.
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR 2024!**
 - *2023.12*: &nbsp;🎉🎉 We released [PyTorch-SVGRender](https://github.com/ximinng/PyTorch-SVGRender), a state-of-the-art library for differentiable SVG rendering in PyTorch.
-
-<!-- 
-# 📄 Writing
-Blog: "[Robust Deep Leanring based on Meta-Learning]&#40;https://www.craft.do/s/N0N70a75WHn9iZ&#41;"
-January 1, 2022 · 10min · Ximing Xing
--->
 
 # 📝 Publications
 
@@ -83,7 +76,7 @@ January 1, 2022 · 10min · Ximing Xing
 
 <b><u>TL;DR:</u></b> LLM4SVG introduces learnable **SVG Semantic Tokens** and a large **SVGX-SFT dataset**, enabling LLMs to understand and generate complex vector graphics.
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>
 
 [**Project**](https://ximinng.github.io/LLM4SVGProject/) | [**Code**](https://github.com/ximinng/LLM4SVG) | [**SVGX-SFT-1M Dataset**](https://huggingface.co/datasets/xingxm/SVGX-SFT-1M)
 </div>
@@ -104,7 +97,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 **Hierarchical Image Vectorization (HIVE)** - enables semantic object-level and component-level image vectorization,
 and **Adaptive Vector Primitive Control** – dynamically assigns the optimal number of vector primitives, capturing fine-grained details without wasting computation.
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
+<p class="conf-color">IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)</p>
 
 [**Project**](https://ximinng.github.io/SVGDreamerV2Project/) | [**Code**](https://github.com/ximinng/SVGDreamerV2) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
@@ -140,7 +133,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI 2025)
 
 <b><u>TL;DR:</u></b> SVGDreamer introduces **Semantic-driven Image VEctorization (SIVE)** and **Vector Particle-based Score Distillation (VPSD)** to generate editable, high-quality SVGs with better shape control and diversity.
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>
 
 [**Project**](https://ximinng.github.io/SVGDreamer-project/) | [**Code**](https://github.com/ximinng/SVGDreamer) | [**Blog**](https://huggingface.co/blog/xingxm/svgdreamer)
 </div>
@@ -277,6 +270,13 @@ HaiYang Zhang, **Ximing Xing**, Liang Liu
 
 # 💻 Internships
 
+- *2025.06 - (present)*, [Tencent Hunyuan](https://hunyuan.tencent.com/), research intern (Qingyun Program). Beijing, China.
+
+  **Multimodal Vector Graphics Large Language Models** research in multimodal large models.
+
+  - Developing novel approaches for multimodal vector graphics understanding and generation.
+  - Advancing the integration of large language models with vector graphics synthesis.
+
 - *2021.06 - 2021.11*, [Ant Group](https://www.antgroup.com/en), machine learning algorithm intern. HangZhou, China.
 
   **Multi-Turn Task-Oriented Dialogue System** based on deep reinforcement learning.
@@ -287,10 +287,17 @@ HaiYang Zhang, **Ximing Xing**, Liang Liu
 
 # 📑 Professional Activities
 
-- Conference Reviewer
+#### Conference Reviewer
 
-  CVPR 2024, ECCV 2024, NIPS 2024, ACM MM 2024, AAAI 2025, CVPR 2025, SIGGRAPH 2025, NIPS 2025
+**2025**: AAAI, CVPR, SIGGRAPH, SIGGRAPH Asia, NeurIPS
 
-- Journal Reviewer
+**2024**: CVPR, ECCV, NeurIPS, ACM MM
 
-  IJCV, IEEE T-VCG
+#### Journal Reviewer
+
+**Computer Vision & Graphics**: International Journal of Computer Vision (IJCV), IEEE Transactions on Visualization and Computer Graphics (T-VCG)
+
+#### Academic Service
+
+- Active member of the AI and Computer Vision research community
+- Regular reviewer for top-tier conferences and journals in AI, Computer Vision, and Computer Graphics
