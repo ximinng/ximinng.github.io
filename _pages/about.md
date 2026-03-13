@@ -32,7 +32,7 @@ Some of his representative works include:
 * **Differentiable SVG Rendering Library**: [PyTorch-SVGRender](https://ximinng.github.io/PyTorch-SVGRender-project/) [![](https://img.shields.io/github/stars/ximinng/PyTorch-SVGRender?style=social&label=Code)](https://github.com/ximinng/PyTorch-SVGRender)
 
 **Impact & Open Science**: His commitment to open science and reproducible research is reflected in his highly influential open-source projects, which have collectively garnered substantial community adoption on GitHub.
-[![github](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng)](https://github.com/ximinng/)
+[![github](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ximinng)](https://github.com/ximinng/) 
 
 Beyond academic publications, he actively contributes to the broader AI community through **large-scale datasets**, **production-ready code libraries**, and **interactive demos** on HuggingFace ([@xingxm profile](https://huggingface.co/xingxm), [SVGRender Space](https://huggingface.co/SVGRender)), making cutting-edge vector graphics research accessible to researchers and practitioners worldwide.
 
@@ -40,7 +40,7 @@ Beyond academic publications, he actively contributes to the broader AI communit
 
 # 🔥 News
 
-- *2025.03*: &nbsp;🎉🎉 Two papers [PromptEnhancer](https://hunyuan-promptenhancer.github.io/) and [Reason-SVG](https://arxiv.org/abs/2505.24499) have been accepted by **CVPR 2026!**
+- *2026.03*: &nbsp;🎉🎉 Two papers [PromptEnhancer](https://hunyuan-promptenhancer.github.io/) [![](https://img.shields.io/github/stars/Hunyuan-PromptEnhancer/PromptEnhancer?style=social&label=Code+Stars)](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer) and [Reason-SVG](https://arxiv.org/abs/2505.24499) have been accepted by **CVPR 2026!**
 - *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR 2025!**
 - *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!** This is the **first paper on SVG generation** ever published in **T-PAMI**.
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR 2024!**
@@ -193,7 +193,6 @@ Yandong Guan, Xilin Wang, **Ximing Xing**, Jing Zhang, Dong Xu, Qian Yu
 <b><u>TL;DR:</u></b> CAD-Coder enables LLMs to generate complex, valid 3D CAD models from text by outputting CadQuery (Python) scripts, using a novel structured chain-of-thought approach.
 
 [**Code**](https://github.com/gudo7208/CAD-Coder) | [**Model**](https://huggingface.co/gudo7208/CAD-Coder) | [**Dataset**](https://huggingface.co/datasets/gudo7208/CAD-Coder)
-
 </div>
 </div>
 
@@ -237,7 +236,7 @@ Linqing Wang, **Ximing Xing** et al.
 
 <h3 style="color: #0066cc;">🏷 Topic: Robust Machine Learning</h3>
 
-<!-- paper 1 -->
+<!-- paper -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/dualgraph_cover.png' loading="lazy" alt="DualGraph"></div></div>
