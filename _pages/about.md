@@ -55,7 +55,7 @@ Beyond academic publications, he actively contributes to the broader AI communit
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/reasonsvg_cover.png' loading="lazy" alt="ReasonSVG"></div></div>
 <div class='paper-box-text' markdown="1">
-[Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499)
+[Reason-SVG: Enhancing Structured Reasoning for Scalable Vector Graphics Generation with Reinforcement Learning](https://arxiv.org/abs/2505.24499)
 
 **Ximing Xing**, Ziteng Xue, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu
 
