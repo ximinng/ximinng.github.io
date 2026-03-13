@@ -40,6 +40,7 @@ Beyond academic publications, he actively contributes to the broader AI communit
 
 # 🔥 News
 
+- *2025.03*: &nbsp;🎉🎉 Two papers [PromptEnhancer](https://hunyuan-promptenhancer.github.io/) and [Reason-SVG](https://arxiv.org/abs/2505.24499) have been accepted by **CVPR 2026!**
 - *2025.02*: &nbsp;🎉🎉 Our paper [LLM4SVG](https://ximinng.github.io/LLM4SVGProject/) has been accepted by **CVPR 2025!**
 - *2025.02*: &nbsp;🎉🎉 Our paper [SVGDreamer++](https://ximinng.github.io/SVGDreamerV2Project/) has been accepted by **T-PAMI!** This is the **first paper on SVG generation** ever published in **T-PAMI**.
 - *2024.02*: &nbsp;🎉🎉 Our paper [SVGDreamer](https://ximinng.github.io/SVGDreamer-project/) has been accepted by **CVPR 2024!**
@@ -49,21 +50,21 @@ Beyond academic publications, he actively contributes to the broader AI communit
 
 <h3 style="color: #0066cc;">🏷️ Topic: Vector Graphics Synthesis</h3>
 
-<!-- paper 10 -->
+<!-- paper -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/reason-svg.png' loading="lazy" alt="ReasonSVG"></div></div>
+<div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/reasonsvg_cover.png' loading="lazy" alt="ReasonSVG"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499)
 
-**Ximing Xing**, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu
+**Ximing Xing**, Ziteng Xue, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu
 
 <b><u>TL;DR:</u></b> Reason-SVG introduces the first framework to enhance SVG generation in LLMs through a **"Drawing-with-Thought" (DwT)** paradigm—combining explicit design reasoning with code—trained via supervised fine-tuning and **HyperReward-driven** reinforcement learning.
 
 </div>
 </div>
 
-<!-- paper 9 -->
+<!-- paper -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/llm4svg_cover.png' loading="lazy" alt="LLM4SVG"></div></div>
@@ -82,7 +83,7 @@ Beyond academic publications, he actively contributes to the broader AI communit
 </div>
 </div>
 
-<!-- paper 8 -->
+<!-- paper -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/svgdreamerv2_cover.png' loading="lazy" alt="SVGDreamer++"></div></div>
@@ -103,7 +104,7 @@ and **Adaptive Vector Primitive Control** – dynamically assigns the optimal nu
 </div>
 </div>
 
-<!-- paper 7 -->
+<!-- paper -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/svgfusion_cover.png' loading="lazy" alt="SVGFusion"></div></div>
@@ -120,7 +121,7 @@ and **Adaptive Vector Primitive Control** – dynamically assigns the optimal nu
 </div>
 </div>
 
-<!-- paper 6 -->
+<!-- paper -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamer11_cover.png' loading="lazy" alt="SVGDreamer"></div></div>
@@ -139,26 +140,7 @@ and **Adaptive Vector Primitive Control** – dynamically assigns the optimal nu
 </div>
 </div>
 
-<!-- paper 5 -->
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
-<div class='paper-box-text' markdown="1">
-[VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
-
-Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
-
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-VectorPainter-orange.svg)](https://hjc-owo.github.io/VectorPainterProject/)
-
-<b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by **imitating stylized strokes**.
-
-<p class="conf-color">IEEE International Conference on Multimedia & Expo (ICME'25)</p>
-
-[**Project**](https://hjc-owo.github.io/VectorPainterProject/) | [**Code**](https://github.com/hjc-owo/VectorPainter)
-</div>
-</div>
-
-<!-- paper 4 -->
+<!-- paper -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='images/diffsketcher_cover.png' loading="lazy" alt="DiffSketcher"></div></div>
@@ -177,26 +159,65 @@ Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
 </div>
 </div>
 
-<h3 style="color: #0066cc;">🏷 Topic: CAD Generation</h3>
-
-<!-- paper 3 -->
+<!-- paper -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cad-coder.png' loading="lazy" alt="Inversion-By-Inversion"></div></div>
+<div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/vectorpainter-cover.png' loading="lazy" alt="VectorPainter"></div></div>
+<div class='paper-box-text' markdown="1">
+[VectorPainter: Advanced Stylized Vector Graphics Synthesis Using Stroke-Style Priors](https://arxiv.org/abs/2405.02962)
+
+Juncheng Hu, **Ximing Xing**, Jing Zhang, Qian Yu
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-VectorPainter-orange.svg)](https://hjc-owo.github.io/VectorPainterProject/)
+
+<b><u>TL;DR:</u></b> VectorPainter synthesizes text-guided vector graphics by **imitating stylized strokes**.
+
+<p class="conf-color">IEEE International Conference on Multimedia & Expo (ICME'25)</p>
+
+[**Project**](https://hjc-owo.github.io/VectorPainterProject/) | [**Code**](https://github.com/hjc-owo/VectorPainter)
+</div>
+</div>
+
+<h3 style="color: #0066cc;">🏷 Topic: CAD Generation</h3>
+
+<!-- paper -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cadcoder_cover.png' loading="lazy" alt="CAD-Coder"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward](https://arxiv.org/abs/2505.19713)
 
 Yandong Guan, Xilin Wang, **Ximing Xing**, Jing Zhang, Dong Xu, Qian Yu
 
-<b><u>TL;DR:</u></b> CAD-Coder enables LLMs to generate complex, valid 3D CAD models from text by outputting CadQuery (Python) scripts, using a novel two-stage training and chain-of-thought approach.
+<b><u>TL;DR:</u></b> CAD-Coder enables LLMs to generate complex, valid 3D CAD models from text by outputting CadQuery (Python) scripts, using a novel structured chain-of-thought approach.
+
+[**Code**](https://github.com/gudo7208/CAD-Coder) | [**Model**](https://huggingface.co/gudo7208/CAD-Coder) | [**Dataset**](https://huggingface.co/datasets/gudo7208/CAD-Coder)
 
 </div>
 </div>
 
 <h3 style="color: #0066cc;">🏷 Topic: Controllable Text-to-Image Generation</h3>
 
-<!-- paper 2 -->
+<!-- paper -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/promptenhancer_cover.png' loading="lazy" alt="PromptEnhancer"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PromptEnhancer: Taming Your Rewriter for Text-to-Image Generation via Fine-Grained Reward](https://arxiv.org/abs/2509.04545)
+
+Linqing Wang, **Ximing Xing** et al.
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SVGFusion-orange.svg)](https://hunyuan-promptenhancer.github.io/) [![benchmark](https://img.shields.io/badge/Benchmark-T2I_Keypoints-ffcc00?logo=huggingface)](https://huggingface.co/datasets/PromptEnhancer/T2I-Keypoints-Eval) [![](https://img.shields.io/github/stars/Hunyuan-PromptEnhancer/PromptEnhancer?style=social&label=Code+Stars)](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer)
+
+<b><u>TL;DR:</u></b> PromptEnhancer is a user prompt rewriting tool for enhancing text-to-image generation.
+
+[**Project**](https://ximinng.github.io/inversion-by-inversion-project/) | [**Code**](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer) | [**Model**](https://huggingface.co/tencent/HunyuanImage-2.1/tree/main/reprompt)
+</div>
+</div>
+
+<!-- paper -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Inv-by-Inv-teaser.png' loading="lazy" alt="Inversion-By-Inversion"></div></div>
@@ -232,9 +253,9 @@ HaiYang Zhang, **Ximing Xing**, Liang Liu
 </div>
 </div>
 
-[//]: # (# 📖 Educations)
+<!-- [//]: # (# 📖 Educations) -->
 
-[//]: # (- *2022.09 - &#40;now&#41;*, Phd student, Beihang University, Beijing. )
+<!-- [//]: # (- *2022.09 - &#40;now&#41;*, Phd student, Beihang University, Beijing. ) -->
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
@@ -250,7 +271,7 @@ HaiYang Zhang, **Ximing Xing**, Liang Liu
 <div class='paper-box-text' markdown="1">
 [Pytorch-SVGRender: A Differentiable Rendering Library for SVG Creation](https://ximinng.github.io/PyTorch-SVGRender-project/)
 
-👥 Main Contributors: **Ximing Xing**, Juncheng Hu
+👥 Project Founder and Main Contributor: **Ximing Xing**
 
 <b><u>TL;DR:</u></b> SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: Text-to-SVG, Image-to-SVG and SVG Editing.
 
