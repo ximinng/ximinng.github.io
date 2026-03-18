@@ -221,3 +221,93 @@ a[href*="github.com"] img {
 a[href*="github.com"] img:hover {
     transform: scale(1.05);
 }
+/* ==========================================================================
+   Publications Filter — Topic Tabs
+   ========================================================================== */
+
+.pub-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 18px 0 24px 0;
+  align-items: center;
+}
+
+.pub-filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 16px;
+  border-radius: 20px;
+  border: 1.5px solid #d0d7de;
+  background: #f6f8fa;
+  color: #444;
+  font-size: 0.88em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.18s ease;
+  white-space: nowrap;
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.pub-filter-btn:hover {
+  border-color: #0066cc;
+  color: #0066cc;
+  background: #eaf2ff;
+}
+
+.pub-filter-btn.active {
+  background: #0066cc;
+  border-color: #0066cc;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 102, 204, 0.18);
+}
+
+.pub-filter-btn .btn-count {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.10);
+  border-radius: 10px;
+  padding: 1px 7px;
+  font-size: 0.82em;
+  font-weight: 600;
+  min-width: 20px;
+  text-align: center;
+}
+
+.pub-filter-btn.active .btn-count {
+  background: rgba(255, 255, 255, 0.28);
+}
+
+.pub-topic-group {
+  display: none;
+}
+
+.pub-topic-group.visible {
+  display: block;
+}
+
+.pub-topic-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 28px 0 12px 0;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e8edf2;
+}
+
+.pub-topic-title {
+  color: #0066cc;
+  font-size: 1.08em;
+  font-weight: 700;
+  margin: 0;
+}
+
+.pub-topic-count-badge {
+  background: #eaf2ff;
+  color: #0066cc;
+  border-radius: 12px;
+  padding: 2px 10px;
+  font-size: 0.8em;
+  font-weight: 600;
+}
